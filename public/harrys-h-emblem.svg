@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="harrysRedGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D71920" />
+      <stop offset="100%" stop-color="#B30E16" />
+    </linearGradient>
+    <filter id="subtleShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <!-- Outer Ring -->
+  <circle cx="150" cy="150" r="142" fill="url(#harrysRedGrad)" stroke="#FFFFFF" stroke-width="6" filter="url(#subtleShadow)"/>
+  <!-- Inner White Ring -->
+  <circle cx="150" cy="150" r="124" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-opacity="0.95"/>
+  <!-- Signature Stylized Cursive 'H' -->
+  <path d="M 108 82 
+           C 98 120, 92 165, 88 208 
+           C 87 218, 93 224, 102 224 
+           C 111 224, 117 217, 119 205 
+           C 123 178, 128 152, 133 130
+           C 142 160, 156 186, 174 205
+           C 186 218, 198 224, 208 222
+           C 218 220, 222 211, 220 199
+           C 217 182, 203 162, 185 142
+           C 172 128, 160 116, 149 105
+           C 161 88, 178 78, 194 78
+           C 204 78, 210 84, 208 94
+           C 206 102, 200 110, 191 114
+           C 185 117, 186 123, 192 122
+           C 208 119, 222 104, 225 87
+           C 228 68, 216 58, 196 58
+           C 168 58, 142 78, 126 106
+           C 131 82, 132 70, 131 65
+           C 129 57, 122 55, 116 58
+           C 109 62, 107 71, 108 82 Z
+           M 148 144
+           C 162 158, 174 174, 182 190
+           C 187 200, 185 206, 178 205
+           C 165 203, 153 186, 144 162
+           C 142 157, 140 152, 138 147
+           C 141 146, 145 145, 148 144 Z"
+        fill="#FFFFFF" />
+  <!-- Since 1991 Subtext -->
+  <text x="150" y="258" font-family="'Montserrat', 'Arial Black', sans-serif" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="3.5">SINCE 1991</text>
+</svg>

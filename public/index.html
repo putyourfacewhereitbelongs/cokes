@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Harry's Stores - Ready-to-Drink Beverage Training Catalog & Quick Reference</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/svg+xml" href="harrys-h-emblem.svg">
+  <!-- SheetJS for Native XLSX Excel Export & Import -->
+  <script src="js/xlsx.full.min.js"></script>
+</head>
+<body class="view-excel">
+
+  <!-- Top Excel & Brand Title Bar -->
+  <header class="excel-top-brand-bar">
+    <div class="excel-brand-left">
+      <img src="harrys-h-emblem.svg" alt="Harry's H Emblem" class="excel-brand-emblem">
+      <div class="excel-brand-title">
+        <span>Harry's Convenience Stores</span>
+        <small>Ready-to-Drink Beverage Training System • Family-Owned Since 1991</small>
+      </div>
+    </div>
+    
+    <!-- View Mode Switcher in Header -->
+    <div class="header-view-switcher no-print">
+      <button type="button" class="view-switch-btn active" id="view-mode-excel-btn" title="View interactive Excel spreadsheet table">
+        <span>📊</span> Spreadsheet Table
+      </button>
+      <button type="button" class="view-switch-btn" id="view-mode-training-btn" title="View compact printable employee training cheat-sheet">
+        <span>🖨️</span> Printable Training Guide
+      </button>
+    </div>
+
+    <div class="excel-brand-right no-print">
+      <span class="store-tag">Harry's Food Mart (TN / GA)</span>
+      <span class="sku-counter-badge" id="header-sku-badge">276 Ready-to-Drink SKUs</span>
+    </div>
+  </header>
+
+  <!-- Excel Ribbon Toolbar (Spreadsheet View) -->
+  <div class="excel-ribbon-bar no-print" id="excel-ribbon-bar">
+    <!-- Edit Group -->
+    <div class="excel-ribbon-group">
+      <button type="button" class="excel-btn excel-btn-primary" id="ribbon-add-row-btn" title="Insert a new beverage row into spreadsheet">
+        <span>➕</span> Insert Row
+      </button>
+      <button type="button" class="excel-btn" id="ribbon-delete-row-btn" title="Delete currently selected row">
+        <span>🗑️</span> Delete Row
+      </button>
+      <button type="button" class="excel-btn" id="ribbon-duplicate-row-btn" title="Duplicate selected row">
+        <span>📋</span> Duplicate
+      </button>
+    </div>
+
+    <!-- Excel Export & Import Group -->
+    <div class="excel-ribbon-group">
+      <button type="button" class="excel-btn excel-btn-green" id="ribbon-export-xlsx-btn" title="Download real Microsoft Excel (.xlsx) workbook with multi-category sheets">
+        <span>📊</span> Export .XLSX
+      </button>
+      <button type="button" class="excel-btn" id="ribbon-export-csv-btn" title="Export as CSV table">
+        <span>📥</span> CSV
+      </button>
+      <button type="button" class="excel-btn" id="ribbon-import-file-btn" title="Import from Excel .xlsx or .csv or .json">
+        <span>📤</span> Import
+      </button>
+      <input type="file" id="excel-file-input" accept=".xlsx,.xls,.csv,.json" style="display: none;">
+    </div>
+
+    <!-- Print & Training Group -->
+    <div class="excel-ribbon-group">
+      <button type="button" class="excel-btn excel-btn-dark" id="ribbon-print-sheet-btn" title="Print condensed training sheet (fits on minimal paper)">
+        <span>🖨️</span> Print Training Sheet
+      </button>
+      <button type="button" class="excel-btn" id="ribbon-training-guide-btn" title="View cooler door planogram merchandising rules">
+        <span>📖</span> Planogram Rules
+      </button>
+      <button type="button" class="excel-btn" id="ribbon-reset-catalog-btn" title="Reset all 276 items back to default master">
+        <span>🔄</span> Reset
+      </button>
+    </div>
+
+    <!-- Live Search Box in Ribbon -->
+    <div class="excel-search-box">
+      <input type="text" id="excel-search-input" placeholder="🔍 Search name, brand, SKU, UPC, size..." autocomplete="off">
+      <button type="button" id="excel-search-clear" class="excel-search-clear" title="Clear search">×</button>
+    </div>
+  </div>
+
+  <!-- Excel Formula & Quick Filter Bar -->
+  <div class="excel-formula-bar no-print" id="excel-formula-bar">
+    <div class="excel-fx-icon">fx</div>
+    <div class="excel-filter-pills" id="formula-pills-bar">
+      <!-- Injected via JavaScript -->
+    </div>
+  </div>
+
+  <!-- Excel Workbook Sheet Tabs Bar -->
+  <div class="excel-sheets-bar no-print" id="excel-sheets-bar">
+    <!-- Injected via JavaScript -->
+  </div>
+
+  <!-- VIEW 1: Main Excel Grid Viewport -->
+  <main class="excel-grid-viewport" id="excel-grid-viewport">
+    <table class="excel-table">
+      <thead>
+        <!-- Excel Column Letters Row (A, B, C, D, E, F, G, H, I, J, K) -->
+        <tr class="excel-col-letters-row">
+          <th style="width: 44px;">#</th>
+          <th style="width: 52px;">A</th>
+          <th style="width: 260px;">B</th>
+          <th style="width: 140px;">C</th>
+          <th style="width: 150px;">D</th>
+          <th style="width: 80px;">E</th>
+          <th style="width: 100px;">F</th>
+          <th style="width: 110px;">G</th>
+          <th style="width: 90px;">H</th>
+          <th style="width: 120px;">I</th>
+          <th style="width: 190px;">J</th>
+          <th class="excel-action-col no-print" style="width: 75px;">K</th>
+        </tr>
+
+        <!-- Excel Main Header Row -->
+        <tr class="excel-data-header-row">
+          <th class="excel-row-header-cell" style="width: 44px; text-align: center;">Row</th>
+          <th style="width: 52px; text-align: center;">Photo</th>
+          <th class="sortable" data-sort="full_name" style="width: 260px;">Full Beverage Name & Flavor</th>
+          <th class="sortable" data-sort="brand_group" style="width: 140px;">Brand Group</th>
+          <th class="sortable" data-sort="category" style="width: 150px;">Drink Category / Type</th>
+          <th class="sortable" data-sort="size" style="width: 80px;">Size</th>
+          <th class="sortable" data-sort="container_type" style="width: 100px;">Container</th>
+          <th class="sortable" data-sort="packaging" style="width: 110px;">Packaging / Case</th>
+          <th class="sortable" data-sort="sku" style="width: 90px;">myCoke SKU</th>
+          <th class="sortable" data-sort="upc" style="width: 120px;">UPC Barcode</th>
+          <th class="sortable" data-sort="cooler_zone" style="width: 190px;">Cooler Planogram Zone</th>
+          <th class="excel-action-col no-print" style="width: 75px; text-align: center;">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="excel-table-body">
+        <!-- Table rows populated dynamically -->
+      </tbody>
+    </table>
+  </main>
+
+  <!-- VIEW 2: Ultra-Compact Printable Training Guide Viewport -->
+  <section class="training-sheet-viewport" id="training-sheet-viewport">
+    
+    <!-- Printable Training Header (Appears in Print & Screen Training View) -->
+    <div class="train-print-header">
+      <div class="train-header-brand">
+        <img src="harrys-h-emblem.svg" alt="Harry's Food Mart" class="train-header-emblem">
+        <div class="train-header-text">
+          <h1>HARRY'S FOOD MART — BEVERAGE QUICK REFERENCE & TRAINING GUIDE</h1>
+          <p>Ready-to-Drink Beverage Catalog • 276 Bottled & Canned SKUs • Coca-Cola Planogram Standards • Family-Owned Since 1991</p>
+        </div>
+      </div>
+      <div class="train-header-meta">
+        <div class="train-meta-pill"><strong>Total SKUs:</strong> 276 RTD</div>
+        <div class="train-meta-pill"><strong>Store:</strong> Harry's Food Mart</div>
+        <div class="train-meta-pill" id="train-print-date"><strong>Date:</strong> Oct 2026</div>
+      </div>
+    </div>
+
+    <!-- Trainee & Trainer Sign-off Verification Bar -->
+    <div class="train-signoff-bar">
+      <div class="train-signoff-item"><span>Employee Name:</span> <span class="train-line">__________________________</span></div>
+      <div class="train-signoff-item"><span>Store #:</span> <span class="train-line">__________</span></div>
+      <div class="train-signoff-item"><span>Training Date:</span> <span class="train-line">____________</span></div>
+      <div class="train-signoff-item"><span>Trainer Signature:</span> <span class="train-line">____________________</span></div>
+    </div>
+
+    <!-- Training View Screen Controls (Hidden during print) -->
+    <div class="train-controls-bar no-print">
+      <div class="train-controls-left">
+        <button type="button" class="excel-btn excel-btn-primary" id="train-print-now-btn" title="Send training sheet to printer">
+          <span>🖨️</span> Print Training Sheet Now
+        </button>
+        
+        <div class="train-ctrl-group">
+          <label for="train-density-select">Density:</label>
+          <select id="train-density-select" class="train-select">
+            <option value="3-col" selected>3 Columns (Ultra-Compact • Minimal 4 Pages)</option>
+            <option value="4-col">4 Columns (Max-Density Pocket Grid • 3 Pages)</option>
+            <option value="2-col">2 Columns (Standard Readable)</option>
+          </select>
+        </div>
+
+        <div class="train-ctrl-group">
+          <label for="train-department-select">Department:</label>
+          <select id="train-department-select" class="train-select">
+            <option value="ALL" selected>All 6 Departments (276 SKUs)</option>
+            <option value="CSD">Colas & Soft Drinks (85 SKUs)</option>
+            <option value="ENERGY">Energy Drinks (83 SKUs)</option>
+            <option value="SPORTS">Sports & Hydration (40 SKUs)</option>
+            <option value="WATER">Waters & Wellness (27 SKUs)</option>
+            <option value="JUICE">Juices, Teas & Kids (26 SKUs)</option>
+            <option value="DAIRY">Dairy, Coffee & Protein (15 SKUs)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="train-controls-right">
+        <span class="train-print-tip">💡 Tip: In print dialog, choose <strong>Minimal Margins</strong> and <strong>Background Graphics: ON</strong> for optimal 4-page printout.</span>
+        <button type="button" class="excel-btn" id="train-return-excel-btn">
+          <span>📊</span> Back to Spreadsheet
+        </button>
+      </div>
+    </div>
+
+    <!-- Training Drink Sections Container -->
+    <div class="train-sections-container" id="train-sections-container">
+      <!-- Injected dynamically via JavaScript -->
+    </div>
+
+    <!-- Training Guide Print Footer -->
+    <div class="train-print-footer">
+      <span>Harry's Convenience Stores • Official Beverage Training Guide • Keep Cooler Stocked & Rotated (FIFO)</span>
+      <span>Page <span class="page-number"></span></span>
+    </div>
+
+  </section>
+
+  <!-- Bottom Excel Status Bar (Spreadsheet View) -->
+  <footer class="excel-status-bar no-print" id="excel-status-bar">
+    <div class="excel-status-left">
+      <span class="excel-status-item">Status: <strong>Ready</strong></span>
+      <span class="excel-status-item">Total Rows: <strong id="status-row-count">276</strong></span>
+      <span class="excel-status-item">Filtered: <strong id="status-filtered-count">276</strong></span>
+      <span class="excel-status-item">Active Sheet: <strong id="status-sheet-name">All Beverages</strong></span>
+    </div>
+    <div class="excel-status-right">
+      <span class="excel-status-item" id="status-selected-count" style="color: var(--harrys-red); font-weight: 700;">No row selected</span>
+      <span style="font-size: 11px; opacity: 0.8;">Double-click any cell to inline edit • Press Enter to save</span>
+    </div>
+  </footer>
+
+  <!-- Add / Edit Beverage Modal -->
+  <div class="excel-modal-backdrop" id="drink-modal">
+    <div class="excel-modal-card">
+      <div class="excel-modal-header">
+        <h3 id="drink-modal-title">
+          <span>➕</span> Insert Beverage Row
+        </h3>
+        <button type="button" class="excel-modal-close-btn" style="background:none; border:none; font-size:18px; cursor:pointer;">&times;</button>
+      </div>
+      <form id="drink-form">
+        <div class="excel-modal-body">
+          <input type="hidden" id="form-drink-id">
+          <div class="form-grid-2">
+            <div class="form-col-full form-group">
+              <label>Full Beverage Name & Flavor *</label>
+              <input type="text" id="form-drink-name" class="form-input" required placeholder="e.g. Coca-Cola Original Taste">
+            </div>
+
+            <div class="form-group">
+              <label>Brand Group *</label>
+              <input type="text" id="form-drink-brand" class="form-input" required placeholder="e.g. Coca-Cola, Monster, Sprite">
+            </div>
+
+            <div class="form-group">
+              <label>Category *</label>
+              <select id="form-drink-category" class="form-input" required>
+                <option value="Carbonated Soft Drinks">Carbonated Soft Drinks</option>
+                <option value="Energy Drinks">Energy Drinks</option>
+                <option value="Sports & Hydration">Sports & Hydration</option>
+                <option value="Bottled & Enhanced Water">Bottled & Enhanced Water</option>
+                <option value="Enhanced Water & Wellness">Enhanced Water & Wellness</option>
+                <option value="Juices & Fruit Drinks">Juices & Fruit Drinks</option>
+                <option value="Ready-to-Drink Teas">Ready-to-Drink Teas</option>
+                <option value="Dairy & Protein Drinks">Dairy & Protein Drinks</option>
+                <option value="Ready-to-Drink Coffee">Ready-to-Drink Coffee</option>
+                <option value="Sparkling Water & Seltzers">Sparkling Water & Seltzers</option>
+                <option value="Kids Drinks & Juices">Kids Drinks & Juices</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Size *</label>
+              <input type="text" id="form-drink-size" class="form-input" required placeholder="e.g. 20 oz, 16 oz, 12 oz, 2 Liter">
+            </div>
+
+            <div class="form-group">
+              <label>Container Type *</label>
+              <select id="form-drink-container" class="form-input" required>
+                <option value="Plastic Bottle">Plastic Bottle</option>
+                <option value="Can">Aluminum Can</option>
+                <option value="Glass Bottle">Glass Bottle</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Packaging / Pack Count *</label>
+              <input type="text" id="form-drink-pack" class="form-input" required placeholder="e.g. 24 Loose, 12 Loose, 12 Pack (2 CT)">
+            </div>
+
+            <div class="form-group">
+              <label>myCoke SKU # *</label>
+              <input type="text" id="form-drink-sku" class="form-input" required placeholder="e.g. 102603">
+            </div>
+
+            <div class="form-group">
+              <label>UPC Barcode</label>
+              <input type="text" id="form-drink-upc" class="form-input" placeholder="e.g. 049000400441">
+            </div>
+
+            <div class="form-group form-col-full">
+              <label>Cooler Planogram Zone</label>
+              <input type="text" id="form-drink-zone" class="form-input" placeholder="e.g. Door 1: Core Colas & Classic Soft Drinks">
+            </div>
+
+            <div class="form-group form-col-full">
+              <label>Drink Photo Filename</label>
+              <input type="text" id="form-drink-image" class="form-input" placeholder="drinks/Coca_Cola_Original_Taste_20oz_Bottle.png">
+            </div>
+          </div>
+        </div>
+        <div class="excel-modal-footer">
+          <button type="button" class="excel-btn excel-modal-close-btn">Cancel</button>
+          <button type="submit" class="excel-btn excel-btn-primary">Save to Spreadsheet</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Zoom Preview Modal -->
+  <div class="excel-modal-backdrop" id="zoom-modal">
+    <div class="excel-modal-card" style="max-width: 380px; text-align: center; padding: 18px;">
+      <div style="height: 240px; display: flex; align-items: center; justify-content: center; margin-bottom: 12px; background: #F9FAFB; border-radius: 6px;">
+        <img src="" id="zoom-modal-img" alt="Drink Preview" style="max-height: 220px; max-width: 100%; object-fit: contain;">
+      </div>
+      <h4 id="zoom-modal-title" style="font-weight: 800; font-size: 14px; color: #111827; margin-bottom: 4px;"></h4>
+      <p id="zoom-modal-sub" style="font-size: 11.5px; color: #4B5563; margin-bottom: 14px; line-height: 1.4;"></p>
+      <button type="button" class="excel-btn excel-modal-close-btn" style="width: 100%;">Close Preview</button>
+    </div>
+  </div>
+
+  <!-- Planogram Training Rules Modal -->
+  <div class="excel-modal-backdrop" id="training-modal">
+    <div class="excel-modal-card" style="max-width: 680px;">
+      <div class="excel-modal-header">
+        <h3 style="color: var(--harrys-red);">
+          <img src="harrys-h-emblem.svg" style="width: 24px; height: 24px;" alt="H">
+          Harry's Beverage Planogram & Cooler Merchandising Rules
+        </h3>
+        <button type="button" class="excel-modal-close-btn" style="background:none; border:none; font-size:18px; cursor:pointer;">&times;</button>
+      </div>
+      <div class="excel-modal-body" style="font-size: 12px; line-height: 1.5; color: #374151;">
+        <div style="margin-bottom: 12px;">
+          <strong style="color: var(--harrys-red-dark); font-size: 13px;">1. The "Coke with Coke" Principle:</strong>
+          <p>Organize cold vaults by strict brand blocks. Place Coca-Cola Original Taste, Coca-Cola Zero Sugar, and Diet Coke together in consecutive vertical columns. Never interleave non-Coca-Cola brands.</p>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <strong style="color: var(--harrys-red-dark); font-size: 13px;">2. Zero Sugar Adjacency:</strong>
+          <p>Merchandise Zero Sugar varieties directly to the immediate right of their regular-sugar counterpart (e.g. Sprite Zero Sugar sits immediately to the right of Sprite Regular).</p>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <strong style="color: var(--harrys-red-dark); font-size: 13px;">3. Vertical Size & Packaging Hierarchy:</strong>
+          <p>• <strong>Eye Level (Shelves 2–4):</strong> 20 oz single-serve plastic bottles and 16 oz energy cans.<br>
+             • <strong>Top Shelf:</strong> Specialty glass bottles (Mexican Coke / Sprite) and premium waters.<br>
+             • <strong>Bottom Shelf / Vault Floor:</strong> 2-Liter bottles and 12-pack / 15-pack can multi-packs.</p>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <strong style="color: var(--harrys-red-dark); font-size: 13px;">4. FIFO Stock Rotation (First-In, First-Out):</strong>
+          <p>Always load stock from the back of the walk-in cold vault so oldest expiration dates are pulled first.</p>
+        </div>
+        <div>
+          <strong style="color: var(--harrys-red-dark); font-size: 13px;">5. Facing & Pull-Forward Standards:</strong>
+          <p>During maintenance rounds, pull front bottles forward to the shelf lip and ensure all brand logos face forward.</p>
+        </div>
+      </div>
+      <div class="excel-modal-footer">
+        <button type="button" class="excel-btn excel-btn-primary excel-modal-close-btn">Understood</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Container -->
+  <div id="toast-container"></div>
+
+  <!-- Application Script -->
+  <script src="js/app.js"></script>
+</body>
+</html>

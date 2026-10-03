@@ -1,0 +1,1234 @@
+/* ==========================================================================
+   HARRY'S CONVENIENCE STORES - READY-TO-DRINK BEVERAGE TRAINING SYSTEM
+   Design System, Excel Spreadsheet Engine & Ultra-Compact Training Print Styles
+   Brand Red: #C8102E | Deep Red: #9E0018 | Slate/Grid: #D1D5DB | Bg: #F3F4F6
+   ========================================================================== */
+
+:root {
+  --harrys-red: #C8102E;
+  --harrys-red-dark: #9E0018;
+  --harrys-red-light: #FFF1F2;
+  --harrys-red-border: #FECDD3;
+  --harrys-red-hover: #A60D25;
+  --harrys-black: #0F172A;
+  --harrys-dark: #1E293B;
+  --harrys-slate: #475569;
+  --harrys-slate-light: #64748B;
+  --excel-grid: #D1D5DB;
+  --excel-header-bg: #F3F4F6;
+  --excel-header-border: #D1D5DB;
+  --excel-row-hover: #F8FAFC;
+  --excel-selected-cell: #FFF1F2;
+  --excel-selected-border: #C8102E;
+  --excel-row-num-bg: #F3F4F6;
+  --excel-ribbon-bg: #FFFFFF;
+  --excel-sheet-tab-bg: #E5E7EB;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --font-main: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-brand: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'SFMono-Regular', Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: #E5E7EB;
+  color: #1F2937;
+  font-size: 13px;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+  user-select: none;
+}
+
+/* ==========================================================================
+   VIEW MODES: SPREADSHEET VS TRAINING GUIDE
+   ========================================================================== */
+
+body.view-excel #excel-grid-viewport,
+body.view-excel #excel-ribbon-bar,
+body.view-excel #excel-formula-bar,
+body.view-excel #excel-sheets-bar,
+body.view-excel #excel-status-bar {
+  display: block;
+}
+
+body.view-excel #training-sheet-viewport {
+  display: none;
+}
+
+body.view-training #excel-grid-viewport,
+body.view-training #excel-ribbon-bar,
+body.view-training #excel-formula-bar,
+body.view-training #excel-sheets-bar,
+body.view-training #excel-status-bar {
+  display: none;
+}
+
+body.view-training #training-sheet-viewport {
+  display: block;
+}
+
+/* ==========================================================================
+   TOP EXCEL & BRAND HEADER
+   ========================================================================== */
+
+.excel-top-brand-bar {
+  background: var(--harrys-red-dark);
+  color: #FFFFFF;
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid #800010;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+}
+
+.excel-brand-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.excel-brand-emblem {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  padding: 2px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.25);
+  display: block;
+}
+
+.excel-brand-title span {
+  font-family: var(--font-brand);
+  font-weight: 900;
+  font-size: 15px;
+  letter-spacing: -0.3px;
+  display: block;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.excel-brand-title small {
+  font-size: 11px;
+  opacity: 0.9;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+}
+
+/* View Mode Switcher in Header */
+.header-view-switcher {
+  display: flex;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.25);
+  padding: 3px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  gap: 4px;
+}
+
+.view-switch-btn {
+  background: transparent;
+  border: none;
+  color: #FFFFFF;
+  padding: 5px 12px;
+  font-size: 11.5px;
+  font-weight: 700;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.15s ease;
+  font-family: var(--font-brand);
+}
+
+.view-switch-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.view-switch-btn.active {
+  background: #FFFFFF;
+  color: var(--harrys-red-dark);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.excel-brand-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 11.5px;
+  font-weight: 600;
+}
+
+.store-tag {
+  opacity: 0.9;
+}
+
+.sku-counter-badge {
+  background: rgba(255,255,255,0.2);
+  padding: 3px 10px;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  border: 1px solid rgba(255,255,255,0.3);
+}
+
+/* ==========================================================================
+   EXCEL RIBBON TOOLBAR
+   ========================================================================== */
+
+.excel-ribbon-bar {
+  background: var(--excel-ribbon-bg);
+  border-bottom: 1px solid var(--excel-grid);
+  padding: 6px 14px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  overflow-x: auto;
+}
+
+.excel-ribbon-group {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding-right: 12px;
+  border-right: 1px solid var(--excel-grid);
+}
+
+.excel-btn {
+  background: #FFFFFF;
+  border: 1px solid #D1D5DB;
+  border-radius: var(--radius-sm);
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #374151;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: all 0.1s ease-in-out;
+  white-space: nowrap;
+}
+
+.excel-btn:hover {
+  background: #F3F4F6;
+  border-color: #9CA3AF;
+  color: #111827;
+}
+
+.excel-btn-primary {
+  background: var(--harrys-red);
+  color: #FFFFFF;
+  border-color: var(--harrys-red-dark);
+}
+
+.excel-btn-primary:hover {
+  background: var(--harrys-red-hover);
+  border-color: var(--harrys-red-dark);
+  color: #FFFFFF;
+}
+
+.excel-btn-green {
+  background: #107C41;
+  color: #FFFFFF;
+  border-color: #0E6837;
+}
+
+.excel-btn-green:hover {
+  background: #0E6837;
+  color: #FFFFFF;
+}
+
+.excel-btn-dark {
+  background: #1E293B;
+  color: #FFFFFF;
+  border-color: #0F172A;
+}
+
+.excel-btn-dark:hover {
+  background: #0F172A;
+  color: #FFFFFF;
+}
+
+/* Ribbon Search Box */
+.excel-search-box {
+  margin-left: auto;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.excel-search-box input {
+  width: 260px;
+  padding: 5px 28px 5px 10px;
+  font-size: 12px;
+  border: 1px solid #D1D5DB;
+  border-radius: var(--radius-sm);
+  outline: none;
+  background: #F9FAFB;
+  transition: all 0.15s ease-in-out;
+}
+
+.excel-search-box input:focus {
+  background: #FFFFFF;
+  border-color: var(--harrys-red);
+  box-shadow: 0 0 0 2px rgba(200, 16, 46, 0.15);
+  width: 300px;
+}
+
+.excel-search-clear {
+  position: absolute;
+  right: 6px;
+  background: none;
+  border: none;
+  color: #9CA3AF;
+  font-size: 16px;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.excel-search-clear:hover {
+  color: #374151;
+}
+
+/* ==========================================================================
+   FORMULA BAR & QUICK BRAND FILTER PILLS
+   ========================================================================== */
+
+.excel-formula-bar {
+  background: #F9FAFB;
+  border-bottom: 1px solid var(--excel-grid);
+  padding: 4px 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+}
+
+.excel-fx-icon {
+  font-family: serif;
+  font-style: italic;
+  font-weight: 700;
+  color: #9CA3AF;
+  font-size: 13px;
+  padding-right: 6px;
+  border-right: 1px solid #E5E7EB;
+  user-select: none;
+}
+
+.excel-filter-pills {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.excel-filter-pill {
+  background: #FFFFFF;
+  border: 1px solid #E5E7EB;
+  border-radius: 12px;
+  padding: 2px 9px;
+  font-size: 11px;
+  font-weight: 600;
+  color: #4B5563;
+  cursor: pointer;
+  transition: all 0.1s ease;
+}
+
+.excel-filter-pill:hover {
+  background: #F3F4F6;
+  border-color: #D1D5DB;
+  color: #111827;
+}
+
+.excel-filter-pill.active {
+  background: var(--harrys-red);
+  color: #FFFFFF;
+  border-color: var(--harrys-red-dark);
+}
+
+/* ==========================================================================
+   WORKBOOK SHEET TABS BAR
+   ========================================================================== */
+
+.excel-sheets-bar {
+  background: var(--excel-sheet-tab-bg);
+  border-bottom: 1px solid var(--excel-grid);
+  display: flex;
+  align-items: flex-end;
+  padding: 3px 12px 0 12px;
+  gap: 2px;
+  overflow-x: auto;
+}
+
+.excel-sheet-tab {
+  background: #D1D5DB;
+  border: 1px solid #9CA3AF;
+  border-bottom: none;
+  padding: 5px 14px;
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #4B5563;
+  cursor: pointer;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.1s ease;
+  white-space: nowrap;
+}
+
+.excel-sheet-tab:hover {
+  background: #E5E7EB;
+  color: #111827;
+}
+
+.excel-sheet-tab.active {
+  background: #FFFFFF;
+  color: var(--harrys-red-dark);
+  border-top: 3px solid var(--harrys-red);
+  border-color: #9CA3AF #9CA3AF #FFFFFF #9CA3AF;
+  padding-top: 4px;
+  font-weight: 800;
+}
+
+.excel-sheet-count {
+  font-size: 10px;
+  background: rgba(0,0,0,0.08);
+  padding: 1px 5px;
+  border-radius: 10px;
+}
+
+.excel-sheet-tab.active .excel-sheet-count {
+  background: var(--harrys-red-light);
+  color: var(--harrys-red-dark);
+}
+
+/* ==========================================================================
+   EXCEL GRID VIEWPORT & SPREADSHEET TABLE
+   ========================================================================== */
+
+.excel-grid-viewport {
+  height: calc(100vh - 175px);
+  overflow: auto;
+  background: #FFFFFF;
+  position: relative;
+}
+
+.excel-table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  font-size: 12px;
+  table-layout: fixed;
+}
+
+.excel-col-letters-row th {
+  background: #F3F4F6;
+  border-right: 1px solid var(--excel-grid);
+  border-bottom: 1px solid var(--excel-grid);
+  color: #6B7280;
+  font-size: 10.5px;
+  font-weight: 700;
+  text-align: center;
+  padding: 2px 4px;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.excel-data-header-row th {
+  background: #F9FAFB;
+  border-right: 1px solid var(--excel-grid);
+  border-bottom: 2px solid #9CA3AF;
+  color: #111827;
+  font-size: 11.5px;
+  font-weight: 800;
+  text-align: left;
+  padding: 6px 8px;
+  position: sticky;
+  top: 22px;
+  z-index: 19;
+  white-space: nowrap;
+}
+
+.excel-data-header-row th.sortable {
+  cursor: pointer;
+}
+
+.excel-data-header-row th.sortable:hover {
+  background: #E5E7EB;
+}
+
+.excel-table td {
+  border-right: 1px solid var(--excel-grid);
+  border-bottom: 1px solid var(--excel-grid);
+  padding: 3px 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: middle;
+  height: 34px;
+}
+
+.excel-table tbody tr:hover td {
+  background-color: var(--excel-row-hover);
+}
+
+.excel-table tbody tr.is-selected td {
+  background-color: var(--excel-selected-cell) !important;
+}
+
+.excel-row-header-cell {
+  background: var(--excel-row-num-bg);
+  color: #6B7280;
+  font-size: 11px;
+  font-weight: 600;
+  text-align: center;
+  position: sticky;
+  left: 0;
+  z-index: 10;
+  border-right: 2px solid #CBD5E1 !important;
+}
+
+/* Category & Section Header Rows */
+.excel-section-row td {
+  background: #F1F5F9 !important;
+  color: var(--harrys-red-dark);
+  font-weight: 800;
+  font-size: 11px;
+  padding: 4px 8px;
+  border-top: 1px solid #CBD5E1;
+  border-bottom: 1px solid #CBD5E1;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+/* Drink Thumbnail Cell in Excel Grid */
+.excel-img-cell {
+  text-align: center;
+  padding: 2px !important;
+}
+
+.excel-drink-thumb-box {
+  width: 28px;
+  height: 30px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #FFFFFF;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+
+.excel-drink-thumb-box:hover {
+  transform: scale(1.3);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+  z-index: 15;
+  position: relative;
+}
+
+.excel-drink-thumb-img {
+  max-width: 26px;
+  max-height: 28px;
+  object-fit: contain;
+  display: block;
+}
+
+.excel-drink-name-cell strong {
+  color: #111827;
+  font-weight: 700;
+}
+
+.excel-brand-group-badge {
+  background: #FFFFFF;
+  border: 1px solid #CBD5E1;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 700;
+  color: #1F2937;
+}
+
+.excel-brand-group-badge.coke {
+  background: #FFF1F2;
+  color: var(--harrys-red-dark);
+  border-color: #FECDD3;
+}
+
+.excel-brand-group-badge.monster {
+  background: #ECFDF5;
+  color: #065F46;
+  border-color: #A7F3D0;
+}
+
+.excel-brand-group-badge.sports {
+  background: #EFF6FF;
+  color: #1E40AF;
+  border-color: #BFDBFE;
+}
+
+/* Editable Cell Highlight */
+.excel-editable-cell {
+  cursor: text;
+}
+
+.excel-editable-cell:hover::after {
+  content: " ✎";
+  font-size: 9px;
+  color: var(--harrys-red);
+  opacity: 0.7;
+}
+
+.excel-editable-cell.is-editing {
+  padding: 0 !important;
+}
+
+.excel-inline-input {
+  width: 100%;
+  height: 100%;
+  border: 2px solid var(--harrys-red);
+  outline: none;
+  padding: 4px 6px;
+  font-family: inherit;
+  font-size: inherit;
+  background: #FFFFFF;
+  box-shadow: 0 0 4px rgba(200, 16, 46, 0.3);
+}
+
+.excel-mono-text {
+  font-family: var(--font-mono);
+  font-size: 11px;
+}
+
+.excel-sku-tag {
+  color: var(--harrys-red);
+  font-weight: 700;
+  background: var(--harrys-red-light);
+  padding: 1px 4px;
+  border-radius: 2px;
+}
+
+/* ==========================================================================
+   VIEW 2: ULTRA-COMPACT PRINTABLE TRAINING GUIDE (SCREEN & PRINT)
+   ========================================================================== */
+
+.training-sheet-viewport {
+  background: #FFFFFF;
+  min-height: 100vh;
+  padding: 16px 20px 40px 20px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+/* Training Sheet Top Header */
+.train-print-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 3px solid var(--harrys-red);
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+}
+
+.train-header-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.train-header-emblem {
+  width: 42px;
+  height: 42px;
+  flex-shrink: 0;
+}
+
+.train-header-text h1 {
+  font-family: var(--font-brand);
+  font-size: 15px;
+  font-weight: 900;
+  color: var(--harrys-red-dark);
+  letter-spacing: -0.2px;
+  line-height: 1.15;
+  margin-bottom: 2px;
+}
+
+.train-header-text p {
+  font-size: 10.5px;
+  color: #4B5563;
+  font-weight: 600;
+}
+
+.train-header-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 3px;
+}
+
+.train-meta-pill {
+  background: #F3F4F6;
+  border: 1px solid #D1D5DB;
+  border-radius: 3px;
+  padding: 1px 8px;
+  font-size: 10.5px;
+  color: #1F2937;
+  white-space: nowrap;
+}
+
+/* Trainee Verification Sign-off Bar */
+.train-signoff-bar {
+  background: #F9FAFB;
+  border: 1px dashed #9CA3AF;
+  border-radius: 4px;
+  padding: 6px 12px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 10.5px;
+  color: #374151;
+  font-weight: 600;
+}
+
+.train-signoff-item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.train-line {
+  color: #9CA3AF;
+  font-family: var(--font-mono);
+}
+
+/* Screen Training Controls Bar */
+.train-controls-bar {
+  background: #F1F5F9;
+  border: 1px solid #CBD5E1;
+  border-radius: var(--radius-md);
+  padding: 8px 14px;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.train-controls-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.train-ctrl-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #374151;
+}
+
+.train-select {
+  padding: 4px 8px;
+  font-size: 11.5px;
+  font-weight: 600;
+  border: 1px solid #CBD5E1;
+  border-radius: var(--radius-sm);
+  background: #FFFFFF;
+  color: #111827;
+  outline: none;
+}
+
+.train-select:focus {
+  border-color: var(--harrys-red);
+}
+
+.train-controls-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.train-print-tip {
+  font-size: 11px;
+  color: #4B5563;
+}
+
+/* Training Category Sections */
+.train-category-section {
+  margin-bottom: 12px;
+  page-break-inside: avoid;
+}
+
+.train-category-header {
+  background: var(--harrys-red-dark);
+  color: #FFFFFF;
+  padding: 4px 10px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  font-family: var(--font-brand);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  page-break-after: avoid;
+}
+
+.train-cat-title {
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+}
+
+.train-cat-badge {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 1px 7px;
+  border-radius: 10px;
+  font-size: 10.5px;
+  font-weight: 700;
+}
+
+/* Multi-Column Density Grids */
+.train-items-grid {
+  display: grid;
+  gap: 4px 6px;
+}
+
+.train-items-grid.cols-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.train-items-grid.cols-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.train-items-grid.cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+/* Individual Training Drink Micro-Card */
+.train-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 6px;
+  background: #FFFFFF;
+  border: 1px solid #E5E7EB;
+  border-radius: 4px;
+  transition: all 0.1s ease;
+  min-height: 32px;
+  page-break-inside: avoid;
+}
+
+.train-item:hover {
+  background: var(--excel-row-hover);
+  border-color: #9CA3AF;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+
+/* Tiny Drink Thumbnail Box */
+.train-item-img-box {
+  width: 24px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  background: #FFFFFF;
+}
+
+.train-item-img {
+  max-width: 24px;
+  max-height: 28px;
+  object-fit: contain;
+  display: block;
+}
+
+/* Drink Content Block */
+.train-item-content {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.train-item-name {
+  font-size: 11px;
+  font-weight: 700;
+  color: #111827;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.15;
+}
+
+.train-item-details {
+  font-size: 9.5px;
+  color: #4B5563;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.1;
+  margin-top: 1px;
+}
+
+.train-item-size {
+  font-weight: 600;
+  color: #1F2937;
+}
+
+.train-item-sep {
+  color: #9CA3AF;
+  margin: 0 2px;
+}
+
+.train-item-sku {
+  font-family: var(--font-mono);
+  color: var(--harrys-red);
+  font-weight: 700;
+}
+
+.train-print-footer {
+  display: none;
+}
+
+/* ==========================================================================
+   BOTTOM EXCEL STATUS BAR
+   ========================================================================== */
+
+.excel-status-bar {
+  background: #FFFFFF;
+  border-top: 1px solid var(--excel-grid);
+  padding: 4px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 11.5px;
+  color: #6B7280;
+  font-weight: 500;
+}
+
+.excel-status-left,
+.excel-status-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.excel-status-item strong {
+  color: var(--harrys-black);
+}
+
+/* ==========================================================================
+   MODALS (ADD, EDIT, ZOOM, PLANOGRAM)
+   ========================================================================== */
+
+.excel-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(2px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.15s ease-in-out;
+}
+
+.excel-modal-backdrop.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.excel-modal-card {
+  background: #FFFFFF;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  max-width: 600px;
+  width: 100%;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid var(--excel-grid);
+}
+
+.excel-modal-header {
+  padding: 12px 18px;
+  background: #F9FAFB;
+  border-bottom: 1px solid var(--excel-grid);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.excel-modal-header h3 {
+  font-size: 14px;
+  font-weight: 800;
+  color: #111827;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.excel-modal-body {
+  padding: 16px 18px;
+  overflow-y: auto;
+}
+
+.excel-modal-footer {
+  padding: 10px 18px;
+  background: #F9FAFB;
+  border-top: 1px solid var(--excel-grid);
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.form-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.form-col-full {
+  grid-column: span 2;
+}
+
+.form-group label {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  color: #4B5563;
+  margin-bottom: 2px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 6px 10px;
+  font-size: 12px;
+  border: 1px solid #D1D5DB;
+  border-radius: var(--radius-sm);
+  outline: none;
+}
+
+.form-input:focus {
+  border-color: var(--harrys-red);
+  box-shadow: 0 0 0 2px rgba(200, 16, 46, 0.15);
+}
+
+/* Toast */
+.toast-box {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  background: #111827;
+  color: #FFFFFF;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  border-left: 4px solid var(--harrys-red);
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* ==========================================================================
+   PRINT STYLES - ULTRA-COMPACT 3-COLUMN TRAINING SHEET
+   FITS ENTIRE 276 READY-TO-DRINK CATALOG IN ~4 PAGES
+   ========================================================================== */
+
+@media print {
+  @page {
+    size: letter portrait;
+    margin: 0.28in 0.3in 0.28in 0.3in;
+  }
+  
+  body {
+    background: #FFFFFF !important;
+    font-size: 7.2pt !important;
+    color: #000000 !important;
+    padding: 0 !important;
+  }
+  
+  /* Always show training guide on print */
+  #excel-grid-viewport,
+  #excel-ribbon-bar,
+  #excel-formula-bar,
+  #excel-sheets-bar,
+  #excel-status-bar,
+  .excel-top-brand-bar,
+  .no-print {
+    display: none !important;
+  }
+  
+  #training-sheet-viewport {
+    display: block !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+  
+  .train-print-header {
+    border-bottom: 2px solid #C8102E !important;
+    padding-bottom: 4px !important;
+    margin-bottom: 6px !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  
+  .train-header-emblem {
+    width: 28px !important;
+    height: 28px !important;
+  }
+  
+  .train-header-text h1 {
+    font-size: 11pt !important;
+    color: #9E0018 !important;
+    margin: 0 !important;
+    line-height: 1.1 !important;
+  }
+  
+  .train-header-text p {
+    font-size: 6.8pt !important;
+    color: #374151 !important;
+  }
+  
+  .train-meta-pill {
+    background: #F3F4F6 !important;
+    border: 0.5px solid #9CA3AF !important;
+    font-size: 6.8pt !important;
+    padding: 1px 4px !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  
+  .train-signoff-bar {
+    background: #F9FAFB !important;
+    border: 0.5px solid #9CA3AF !important;
+    padding: 3px 6px !important;
+    margin-bottom: 6px !important;
+    font-size: 6.8pt !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  
+  .train-category-section {
+    margin-bottom: 6px !important;
+    page-break-inside: avoid !important;
+  }
+  
+  .train-category-header {
+    background: #9E0018 !important;
+    color: #FFFFFF !important;
+    padding: 2px 6px !important;
+    border-radius: 2px !important;
+    margin-bottom: 3px !important;
+    font-size: 7.8pt !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    page-break-after: avoid !important;
+  }
+  
+  .train-cat-title {
+    font-size: 7.8pt !important;
+  }
+  
+  .train-cat-badge {
+    font-size: 6.8pt !important;
+    background: rgba(255,255,255,0.25) !important;
+    padding: 0 4px !important;
+  }
+  
+  .train-items-grid {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 2px 4px !important;
+  }
+  
+  .train-items-grid.cols-4 {
+    grid-template-columns: repeat(4, 1fr) !important;
+    gap: 1.5px 3px !important;
+  }
+  
+  .train-item {
+    height: 25px !important;
+    min-height: 25px !important;
+    padding: 1px 3px !important;
+    gap: 3px !important;
+    border: 0.5px solid #D1D5DB !important;
+    background: #FFFFFF !important;
+    page-break-inside: avoid !important;
+    box-shadow: none !important;
+  }
+  
+  .train-item-img-box {
+    width: 18px !important;
+    height: 23px !important;
+  }
+  
+  .train-item-img {
+    max-width: 18px !important;
+    max-height: 23px !important;
+  }
+  
+  .train-item-name {
+    font-size: 7pt !important;
+    font-weight: 800 !important;
+    color: #000000 !important;
+    line-height: 1.1 !important;
+  }
+  
+  .train-item-details {
+    font-size: 5.8pt !important;
+    color: #374151 !important;
+    line-height: 1 !important;
+    margin-top: 0 !important;
+  }
+  
+  .train-item-size {
+    font-weight: 700 !important;
+    color: #000000 !important;
+  }
+  
+  .train-item-sku {
+    color: #9E0018 !important;
+    font-weight: 700 !important;
+  }
+  
+  .train-print-footer {
+    display: flex !important;
+    justify-content: space-between !important;
+    font-size: 6pt !important;
+    color: #6B7280 !important;
+    border-top: 0.5px solid #D1D5DB !important;
+    padding-top: 3px !important;
+    margin-top: 6px !important;
+  }
+}

@@ -1,0 +1,4542 @@
+[
+  {
+    "file": "Screenshot_20260913_205417_myCoke.jpg",
+    "sku": "414273",
+    "upc": "610764018007",
+    "sku_line": "SKU:414273|UPC:610764018007",
+    "title_lines": [
+      "BangEnergyAmericanBerry,",
+      "16ozcans,12Loose"
+    ],
+    "raw_name": "BangEnergyAmericanBerry, 16ozcans,12Loose",
+    "img_path": "drink_images/sku_414273.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205417_myCoke.jpg",
+    "sku": "413647",
+    "upc": "610764017857",
+    "sku_line": "SKU:413647UPC:610764017857",
+    "title_lines": [
+      "BangEnergyAnyMeans",
+      "Orange,16ozcans,12Loose"
+    ],
+    "raw_name": "BangEnergyAnyMeans Orange,16ozcans,12Loose",
+    "img_path": "drink_images/sku_413647.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205417_myCoke.jpg",
+    "sku": "412548",
+    "upc": "610764863782",
+    "sku_line": "SKU:412548|UPC:610764863782",
+    "title_lines": [
+      "BangEnergyBlackCherry",
+      "Vanilla,16ozcans,12loose"
+    ],
+    "raw_name": "BangEnergyBlackCherry Vanilla,16ozcans,12loose",
+    "img_path": "drink_images/sku_412548.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205417_myCoke.jpg",
+    "sku": "412547",
+    "upc": "610764863645",
+    "sku_line": "SKU:412547|UPC:610764863645",
+    "title_lines": [
+      "BangEnergyBlueRazz,16oz",
+      "cans,12loose"
+    ],
+    "raw_name": "BangEnergyBlueRazz,16oz cans,12loose",
+    "img_path": "drink_images/sku_412547.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205417_myCoke.jpg",
+    "sku": "412549",
+    "upc": "610764000323",
+    "sku_line": "SKU:412549|UPC:610764000323",
+    "title_lines": [
+      "Bang Energy Cotton Candy,16",
+      "ozcans,12loose"
+    ],
+    "raw_name": "Bang Energy Cotton Candy,16 ozcans,12loose",
+    "img_path": "drink_images/sku_412549.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205417_myCoke.jpg",
+    "sku": "413997",
+    "upc": "610764017949",
+    "sku_line": "SKU:413997|UPC:610764017949",
+    "title_lines": [
+      "Bang EnergyLimePop Drop,",
+      "16ozcans,12Loose"
+    ],
+    "raw_name": "Bang EnergyLimePop Drop, 16ozcans,12Loose",
+    "img_path": "drink_images/sku_413997.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205417_myCoke.jpg",
+    "sku": "412556",
+    "upc": "610764863829",
+    "sku_line": "SKU:412556|UPC:610764863829",
+    "title_lines": [
+      "BangEnergyPeachMango,16",
+      "ozcans,12loose"
+    ],
+    "raw_name": "BangEnergyPeachMango,16 ozcans,12loose",
+    "img_path": "drink_images/sku_412556.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205417_myCoke.jpg",
+    "sku": "412550",
+    "upc": "610764000156",
+    "sku_line": "SKU:412550|UPC:610764000156",
+    "title_lines": [
+      "\u5341",
+      "BangEnergyPurpleHaze,16",
+      "ozcans,12loose"
+    ],
+    "raw_name": "\u5341 BangEnergyPurpleHaze,16 ozcans,12loose",
+    "img_path": "drink_images/sku_412550.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205417_myCoke.jpg",
+    "sku": "412555",
+    "upc": "610764863669",
+    "sku_line": "SKU:412555|UPC:610764863669",
+    "title_lines": [
+      "BangEnergyStarBlast,16oz",
+      "cans,12loose"
+    ],
+    "raw_name": "BangEnergyStarBlast,16oz cans,12loose",
+    "img_path": "drink_images/sku_412555.png",
+    "crop_h": 368,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "410703",
+    "upc": "815154023412",
+    "sku_line": "SKU:410703|UPC:815154023412",
+    "title_lines": [
+      "ReignTotalBodyFuelCherry",
+      "Limeade,16ozcans,12loose"
+    ],
+    "raw_name": "ReignTotalBodyFuelCherry Limeade,16ozcans,12loose",
+    "img_path": "drink_images/sku_410703.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "157135",
+    "upc": "815154021913",
+    "sku_line": "SKU:157135|UPC: 815154021913",
+    "title_lines": [
+      "ReignTotalBodyFuelOrange",
+      "Dreamsicle,16ozcans,12lo.."
+    ],
+    "raw_name": "ReignTotalBodyFuelOrange Dreamsicle,16ozcans,12lo..",
+    "img_path": "drink_images/sku_157135.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "411461",
+    "upc": "815154021425",
+    "sku_line": "SKU: 411461|UPC:815154021425",
+    "title_lines": [
+      "\u5341",
+      "ReignTotal BodyFuel",
+      "ReignbowSherbet,16ozcan..."
+    ],
+    "raw_name": "\u5341 ReignTotal BodyFuel ReignbowSherbet,16ozcan...",
+    "img_path": "drink_images/sku_411461.png",
+    "crop_h": 493,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "412591",
+    "upc": "815154025980",
+    "sku_line": "SKU:412591|UPC: 815154025980",
+    "title_lines": [
+      "ReignTotal BodyFuel Sour",
+      "GummyWorm,16ozcans,12.."
+    ],
+    "raw_name": "ReignTotal BodyFuel Sour GummyWorm,16ozcans,12..",
+    "img_path": "drink_images/sku_412591.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "413998",
+    "upc": "815154027021",
+    "sku_line": "SKU: 413998|UPC: 815154027021",
+    "title_lines": [
+      "ReignTotalBodyFuel",
+      "WatermelonSourGummy,16..."
+    ],
+    "raw_name": "ReignTotalBodyFuel WatermelonSourGummy,16...",
+    "img_path": "drink_images/sku_413998.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "410704",
+    "upc": "815154023276",
+    "sku_line": "SKU:410704|UPC:815154023276",
+    "title_lines": [
+      "ReignTotalBodyFuelWhite",
+      "GummyBear,16ozcans,121."
+    ],
+    "raw_name": "ReignTotalBodyFuelWhite GummyBear,16ozcans,121.",
+    "img_path": "drink_images/sku_410704.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "413225",
+    "upc": "815154026789",
+    "sku_line": "SKU: 413225|UPC: 815154026789",
+    "title_lines": [
+      "\u5341",
+      "ReignTotalBodyFuelWhite",
+      "Haze,16ozcans,12Lo0se"
+    ],
+    "raw_name": "\u5341 ReignTotalBodyFuelWhite Haze,16ozcans,12Lo0se",
+    "img_path": "drink_images/sku_413225.png",
+    "crop_h": 493,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "414160",
+    "upc": "815154027151",
+    "sku_line": "SKU:414160UPC: 815154027151",
+    "title_lines": [
+      "\u5341",
+      "FullThrottle RedApple,16oz",
+      "cans,24Lo0se"
+    ],
+    "raw_name": "\u5341 FullThrottle RedApple,16oz cans,24Lo0se",
+    "img_path": "drink_images/sku_414160.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "152202",
+    "upc": "815154020190",
+    "sku_line": "SKU:152202|UPC:815154020190",
+    "title_lines": [
+      "FullThrottle,16 oz cans,24",
+      "loose"
+    ],
+    "raw_name": "FullThrottle,16 oz cans,24 loose",
+    "img_path": "drink_images/sku_152202.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "413892",
+    "upc": "070847899341",
+    "sku_line": "SKU: 413892|UPC: 070847899341",
+    "title_lines": [
+      "MonsterEnergyElectricBlue,",
+      "16ozcans,24Loose"
+    ],
+    "raw_name": "MonsterEnergyElectricBlue, 16ozcans,24Loose",
+    "img_path": "drink_images/sku_413892.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205605_myCoke.jpg",
+    "sku": "413895",
+    "upc": "070847899570",
+    "sku_line": "SKU: 413895|UPC:070847899570",
+    "title_lines": [
+      "\u5341",
+      "MonsterEnergyJuiceBad",
+      "Apple\uff0c160zcans,24Loose"
+    ],
+    "raw_name": "\u5341 MonsterEnergyJuiceBad Apple\uff0c160zcans,24Loose",
+    "img_path": "drink_images/sku_413895.png",
+    "crop_h": 364,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "153389",
+    "upc": "070847029007",
+    "sku_line": "SKU:153389|UPC:070847029007",
+    "title_lines": [
+      "MonsterEnergyJuiceMango",
+      "Loco,16ozcans,24loose"
+    ],
+    "raw_name": "MonsterEnergyJuiceMango Loco,16ozcans,24loose",
+    "img_path": "drink_images/sku_153389.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "155811",
+    "upc": "070847031901",
+    "sku_line": "SKU: 155811|UPC: 070847031901",
+    "title_lines": [
+      "\u5341",
+      "MonsterEnergyJuicePacific",
+      "Punch,16ozcans,24loose"
+    ],
+    "raw_name": "\u5341 MonsterEnergyJuicePacific Punch,16ozcans,24loose",
+    "img_path": "drink_images/sku_155811.png",
+    "crop_h": 493,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "151511",
+    "upc": "070847022916",
+    "sku_line": "SKU:151511|UPC: 070847022916",
+    "title_lines": [
+      "MonsterEnergyJuicePipeline",
+      "Punch,16ozcans,24loose"
+    ],
+    "raw_name": "MonsterEnergyJuicePipeline Punch,16ozcans,24loose",
+    "img_path": "drink_images/sku_151511.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "412701",
+    "upc": "070847896166",
+    "sku_line": "SKU: 412701 |UPC: 070847896166",
+    "title_lines": [
+      "Monster EnergyJuiceRio",
+      "Punch,16 ozcans,24loose"
+    ],
+    "raw_name": "Monster EnergyJuiceRio Punch,16 ozcans,24loose",
+    "img_path": "drink_images/sku_412701.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "414176",
+    "upc": "070847900863",
+    "sku_line": "SKU:414176|UPC:070847900863",
+    "title_lines": [
+      "MonsterEnergyJuice",
+      "StrawberryLemonade,16oz."
+    ],
+    "raw_name": "MonsterEnergyJuice StrawberryLemonade,16oz.",
+    "img_path": "drink_images/sku_414176.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "413305",
+    "upc": "070847898337",
+    "sku_line": "SKU:413305UPC:070847898337",
+    "title_lines": [
+      "Monster EnergyJuiceViking",
+      "Berry.16ozcans,24Lo0se"
+    ],
+    "raw_name": "Monster EnergyJuiceViking Berry.16ozcans,24Lo0se",
+    "img_path": "drink_images/sku_413305.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "414021",
+    "upc": "070847899440",
+    "sku_line": "SKU: 414021|UPC: 070847899440",
+    "title_lines": [
+      "MonsterEnergyJuiceVoodoo",
+      "Grape,16ozcans,24Lo0se"
+    ],
+    "raw_name": "MonsterEnergyJuiceVoodoo Grape,16ozcans,24Lo0se",
+    "img_path": "drink_images/sku_414021.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "414009",
+    "upc": "070847900214",
+    "sku_line": "SKU: 414009 |UPC: 070847900214",
+    "title_lines": [
+      "MonsterEnergyLandoNorris",
+      "ZeroSugar,16ozcans,24Lo."
+    ],
+    "raw_name": "MonsterEnergyLandoNorris ZeroSugar,16ozcans,24Lo.",
+    "img_path": "drink_images/sku_414009.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "413995",
+    "upc": "070847899785",
+    "sku_line": "SKU:413995UPC: 070847899785",
+    "title_lines": [
+      "\u5341",
+      "MonsterEnergyStrawberry",
+      "ShotZeroSugar,16ozcans\uff0c\u2026."
+    ],
+    "raw_name": "\u5341 MonsterEnergyStrawberry ShotZeroSugar,16ozcans\uff0c\u2026.",
+    "img_path": "drink_images/sku_413995.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "413994",
+    "upc": "070847899709",
+    "sku_line": "SKU:413994|UPC: 070847899709",
+    "title_lines": [
+      "MonsterEnergyStrawberry",
+      "Shot,16ozcans,24Lo0se"
+    ],
+    "raw_name": "MonsterEnergyStrawberry Shot,16ozcans,24Lo0se",
+    "img_path": "drink_images/sku_413994.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205638_myCoke.jpg",
+    "sku": "413270",
+    "upc": "070847898252",
+    "sku_line": "SKU:413270|UPC: 070847898252",
+    "title_lines": [
+      "MonsterEnergyUltraBlue",
+      "HawaiianZeroSugar,16ozc"
+    ],
+    "raw_name": "MonsterEnergyUltraBlue HawaiianZeroSugar,16ozc",
+    "img_path": "drink_images/sku_413270.png",
+    "crop_h": 358,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "413270",
+    "upc": "070847898252",
+    "sku_line": "SKU:413270|UPC:070847898252",
+    "title_lines": [
+      "MonsterEnergyUltraBlue",
+      "HawaiianZeroSugar,16ozC..."
+    ],
+    "raw_name": "MonsterEnergyUltraBlue HawaiianZeroSugar,16ozC...",
+    "img_path": "drink_images/sku_413270.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "412633",
+    "upc": "070847896197",
+    "sku_line": "SKU:412633|UPC: 070847896197",
+    "title_lines": [
+      "MonsterEnergyUltraFantasy",
+      "RubyRed ZeroSugar,16ozc..."
+    ],
+    "raw_name": "MonsterEnergyUltraFantasy RubyRed ZeroSugar,16ozc...",
+    "img_path": "drink_images/sku_412633.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "156530",
+    "upc": "070847033097",
+    "sku_line": "SKU:156530|UPC:070847033097",
+    "title_lines": [
+      "MonsterEnergyUltraParadise,",
+      "16ozcans,24loose"
+    ],
+    "raw_name": "MonsterEnergyUltraParadise, 16ozcans,24loose",
+    "img_path": "drink_images/sku_156530.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "411462",
+    "upc": "070847029434",
+    "sku_line": "SKU: 411462 |UPC: 070847029434",
+    "title_lines": [
+      "\u5341",
+      "MonsterEnergyUltraPeachy",
+      "KeenZeroSugar,16ozcans,"
+    ],
+    "raw_name": "\u5341 MonsterEnergyUltraPeachy KeenZeroSugar,16ozcans,",
+    "img_path": "drink_images/sku_411462.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "414001",
+    "upc": "070847899624",
+    "sku_line": "SKU: 414001|UPC: 070847899624",
+    "title_lines": [
+      "MonsterEnergyUltraPunk",
+      "PunchZeroSugar,16ozcans."
+    ],
+    "raw_name": "MonsterEnergyUltraPunk PunchZeroSugar,16ozcans.",
+    "img_path": "drink_images/sku_414001.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "414121",
+    "upc": "070847900276",
+    "sku_line": "SKU: 414121|UPC: 070847900276",
+    "title_lines": [
+      "MonsterEnergyUltraRed",
+      "White&BlueRazzZeroSugar.."
+    ],
+    "raw_name": "MonsterEnergyUltraRed White&BlueRazzZeroSugar..",
+    "img_path": "drink_images/sku_414121.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "412024",
+    "upc": "070847891864",
+    "sku_line": "SKU: 412024|UPC: 070847891864",
+    "title_lines": [
+      "MonsterEnergyUltra",
+      "StrawberryDreamsZeroSug..."
+    ],
+    "raw_name": "MonsterEnergyUltra StrawberryDreamsZeroSug...",
+    "img_path": "drink_images/sku_412024.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "150706",
+    "upc": "070847020912",
+    "sku_line": "SKU:150706|UPC:070847020912",
+    "title_lines": [
+      "Monster EnergyUltra Sunrise,",
+      "16ozcans,24loose"
+    ],
+    "raw_name": "Monster EnergyUltra Sunrise, 16ozcans,24loose",
+    "img_path": "drink_images/sku_150706.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "413146",
+    "upc": "070847898153",
+    "sku_line": "SKU: 413146|UPC: 070847898153",
+    "title_lines": [
+      "MonsterEnergyUltraVice",
+      "Guava Zero Sugar,16 oz cans..."
+    ],
+    "raw_name": "MonsterEnergyUltraVice Guava Zero Sugar,16 oz cans...",
+    "img_path": "drink_images/sku_413146.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "153225",
+    "upc": "070847027355",
+    "sku_line": "SKU:153225|UPC:070847027355",
+    "title_lines": [
+      "MonsterEnergyUltraViolet",
+      "ZeroSugar,16ozcans,24lo..."
+    ],
+    "raw_name": "MonsterEnergyUltraViolet ZeroSugar,16ozcans,24lo...",
+    "img_path": "drink_images/sku_153225.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205712_myCoke.jpg",
+    "sku": "413894",
+    "upc": "070847899495",
+    "sku_line": "SKU: 413894|UPC: 070847899495",
+    "title_lines": [
+      "\u5341",
+      "Monster EnergyUltra Wild",
+      "PassionZeroSugar,16ozca.."
+    ],
+    "raw_name": "\u5341 Monster EnergyUltra Wild PassionZeroSugar,16ozca..",
+    "img_path": "drink_images/sku_413894.png",
+    "crop_h": 376,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "413894",
+    "upc": "070847899495",
+    "sku_line": "SKU: 413894|UPC: 070847899495",
+    "title_lines": [
+      "MonsterEnergyUltraWild",
+      "PassionZeroSugar,16ozca..."
+    ],
+    "raw_name": "MonsterEnergyUltraWild PassionZeroSugar,16ozca...",
+    "img_path": "drink_images/sku_413894.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "145105",
+    "upc": "070847012481",
+    "sku_line": "SKU:145105|UPC:070847012481",
+    "title_lines": [
+      "MonsterEnergyUltraZero",
+      "Sugar,16ozcans,24lo0se"
+    ],
+    "raw_name": "MonsterEnergyUltraZero Sugar,16ozcans,24lo0se",
+    "img_path": "drink_images/sku_145105.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "137400",
+    "upc": "070847000044",
+    "sku_line": "SKU:137400|UPC:070847000044",
+    "title_lines": [
+      "MonsterEnergyZeroSugar,16",
+      "ozcans,24loose"
+    ],
+    "raw_name": "MonsterEnergyZeroSugar,16 ozcans,24loose",
+    "img_path": "drink_images/sku_137400.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "133129",
+    "upc": "070847810162",
+    "sku_line": "SKU:133129|UPC:070847810162",
+    "title_lines": [
+      "MonsterEnergy,16ozcans,",
+      "24loose"
+    ],
+    "raw_name": "MonsterEnergy,16ozcans, 24loose",
+    "img_path": "drink_images/sku_133129.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "133131",
+    "upc": "070847810261",
+    "sku_line": "SKU: 133131|UPC:070847810261",
+    "title_lines": [
+      "\u5341",
+      "MonsterLocarbEnergy,16oz",
+      "cans,24loose"
+    ],
+    "raw_name": "\u5341 MonsterLocarbEnergy,16oz cans,24loose",
+    "img_path": "drink_images/sku_133131.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "410844",
+    "upc": "070847037767",
+    "sku_line": "SKU: 410844|UPC:070847037767",
+    "title_lines": [
+      "Monster Nitro SuperDry.16 oz",
+      "cans,24loose"
+    ],
+    "raw_name": "Monster Nitro SuperDry.16 oz cans,24loose",
+    "img_path": "drink_images/sku_410844.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "413893",
+    "upc": "070847899402",
+    "sku_line": "SKU: 413893|UPC: 070847899402",
+    "title_lines": [
+      "MonsterReserveOrange",
+      "Dreamsicle,16ozcans,24L"
+    ],
+    "raw_name": "MonsterReserveOrange Dreamsicle,16ozcans,24L",
+    "img_path": "drink_images/sku_413893.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "152196",
+    "upc": "815154020015",
+    "sku_line": "SKU:152196|UPC:815154020015",
+    "title_lines": [
+      "Nos Energy, 16 oz cans,24",
+      "loose"
+    ],
+    "raw_name": "Nos Energy, 16 oz cans,24 loose",
+    "img_path": "drink_images/sku_152196.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "414141",
+    "upc": "",
+    "sku_line": "SKU: 414141|UPC: B15154027182",
+    "title_lines": [
+      "Nos GranPrixGuava,16 oz",
+      "cans,24Lo0se"
+    ],
+    "raw_name": "Nos GranPrixGuava,16 oz cans,24Lo0se",
+    "img_path": "drink_images/sku_414141.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "152197",
+    "upc": "815154020107",
+    "sku_line": "SKU:152197|UPC:815154020107",
+    "title_lines": [
+      "NosGtGrape,16ozcans,24",
+      "loose"
+    ],
+    "raw_name": "NosGtGrape,16ozcans,24 loose",
+    "img_path": "drink_images/sku_152197.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205743_myCoke.jpg",
+    "sku": "412514",
+    "upc": "815154025928",
+    "sku_line": "SKU:412514|UPC:815154025928",
+    "title_lines": [
+      "NosZero,16ozcans,24loose"
+    ],
+    "raw_name": "NosZero,16ozcans,24loose",
+    "img_path": "drink_images/sku_412514.png",
+    "crop_h": 417,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "145388",
+    "upc": "070847013259",
+    "sku_line": "SKU:145388|UPC:070847013259",
+    "title_lines": [
+      "MonsterEnergyUltraZero",
+      "Sugar,16ozcans,4pk,6ct"
+    ],
+    "raw_name": "MonsterEnergyUltraZero Sugar,16ozcans,4pk,6ct",
+    "img_path": "drink_images/sku_145388.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "137113",
+    "upc": "070847000068",
+    "sku_line": "SKU:137113|UPC:070847000068",
+    "title_lines": [
+      "MonsterEnergyZeroSugar,16",
+      "oz cans,4pk,6ct"
+    ],
+    "raw_name": "MonsterEnergyZeroSugar,16 oz cans,4pk,6ct",
+    "img_path": "drink_images/sku_137113.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "133109",
+    "upc": "070847811374",
+    "sku_line": "SKU:133109|UPC:070847811374",
+    "title_lines": [
+      "Monster Energy,16ozcans,4",
+      "pk,6ct"
+    ],
+    "raw_name": "Monster Energy,16ozcans,4 pk,6ct",
+    "img_path": "drink_images/sku_133109.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "147198",
+    "upc": "070847018605",
+    "sku_line": "SKU: 147198|UPC: 070847018605",
+    "title_lines": [
+      "MonsterImport Energy.18.6",
+      "ozcans,12loose"
+    ],
+    "raw_name": "MonsterImport Energy.18.6 ozcans,12loose",
+    "img_path": "drink_images/sku_147198.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "412029",
+    "upc": "070847892557",
+    "sku_line": "SKU: 412029UPC:070847892557",
+    "title_lines": [
+      "\u5341",
+      "Monster Rehab",
+      "Tea+Lemonade,18.6ozcans.,.."
+    ],
+    "raw_name": "\u5341 Monster Rehab Tea+Lemonade,18.6ozcans.,..",
+    "img_path": "drink_images/sku_412029.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "412033",
+    "upc": "070847892397",
+    "sku_line": "SKU:412033|UPC:070847892397",
+    "title_lines": [
+      "MonsterEnergy Juice Mango",
+      "Loco,19.2ozcans,12loose"
+    ],
+    "raw_name": "MonsterEnergy Juice Mango Loco,19.2ozcans,12loose",
+    "img_path": "drink_images/sku_412033.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "412034",
+    "upc": "070847892526",
+    "sku_line": "SKU:412034|UPC: 070847892526",
+    "title_lines": [
+      "MonsterEnergyUltraZero",
+      "Sugar,19.2ozcans,12loose"
+    ],
+    "raw_name": "MonsterEnergyUltraZero Sugar,19.2ozcans,12loose",
+    "img_path": "drink_images/sku_412034.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "412032",
+    "upc": "070847892366",
+    "sku_line": "SKU: 412032|UPC: 070847892366",
+    "title_lines": [
+      "\u5341",
+      "MonsterEnergy,19.2ozcans,",
+      "12loose"
+    ],
+    "raw_name": "\u5341 MonsterEnergy,19.2ozcans, 12loose",
+    "img_path": "drink_images/sku_412032.png",
+    "crop_h": 493,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "133145",
+    "upc": "070847810247",
+    "sku_line": "SKU:133145UPC: 070847810247",
+    "title_lines": [
+      "\u5341",
+      "MegaMonsterEnergy.24oz",
+      "cans,12loose"
+    ],
+    "raw_name": "\u5341 MegaMonsterEnergy.24oz cans,12loose",
+    "img_path": "drink_images/sku_133145.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "133147",
+    "upc": "070847810216",
+    "sku_line": "SKU: 133147|UPC: 070847810216",
+    "title_lines": [
+      "Mega MonsterLocarb Energy,",
+      "24ozcans,12loose"
+    ],
+    "raw_name": "Mega MonsterLocarb Energy, 24ozcans,12loose",
+    "img_path": "drink_images/sku_133147.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205808_myCoke.jpg",
+    "sku": "147322",
+    "upc": "070847017714",
+    "sku_line": "SKU: 147322|UPC: 070847017714",
+    "title_lines": [
+      "MonsterEnergyUltraZero",
+      "Sugar,24ozcans,12loose"
+    ],
+    "raw_name": "MonsterEnergyUltraZero Sugar,24ozcans,12loose",
+    "img_path": "drink_images/sku_147322.png",
+    "crop_h": 355,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "413282",
+    "upc": "070847898382",
+    "sku_line": "SKU: 413282|UPC:070847898382",
+    "title_lines": [
+      "MonsterEnergyZeroSugar,24",
+      "ozcans,12Loose"
+    ],
+    "raw_name": "MonsterEnergyZeroSugar,24 ozcans,12Loose",
+    "img_path": "drink_images/sku_413282.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "151988",
+    "upc": "815154020084",
+    "sku_line": "SKU:151988|UPC:815154020084",
+    "title_lines": [
+      "Nos Energy,24 oz cans,12",
+      "loose"
+    ],
+    "raw_name": "Nos Energy,24 oz cans,12 loose",
+    "img_path": "drink_images/sku_151988.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "412342",
+    "upc": "810113830674",
+    "sku_line": "SKU:412342|UPC:810113830674",
+    "title_lines": [
+      "BodyarmorFlashIvGrape,20",
+      "ozbottles,12loose"
+    ],
+    "raw_name": "BodyarmorFlashIvGrape,20 ozbottles,12loose",
+    "img_path": "drink_images/sku_412342.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "412340",
+    "upc": "810113830698",
+    "sku_line": "SKU:412340|UPC:810113830698",
+    "title_lines": [
+      "BodyarmorFlashIvOrange,20",
+      "ozbottles,12loose"
+    ],
+    "raw_name": "BodyarmorFlashIvOrange,20 ozbottles,12loose",
+    "img_path": "drink_images/sku_412340.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "412345",
+    "upc": "810113830599",
+    "sku_line": "SKU:412345|UPC:810113830599",
+    "title_lines": [
+      "\u5341",
+      "BodyarmorFlashIvStrawberry",
+      "Kiwi,20ozbottles,12loose"
+    ],
+    "raw_name": "\u5341 BodyarmorFlashIvStrawberry Kiwi,20ozbottles,12loose",
+    "img_path": "drink_images/sku_412345.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "412344",
+    "upc": "810113830612",
+    "sku_line": "SKU:412344|UPC:810113830612",
+    "title_lines": [
+      "BodyarmorFlashIvTropical",
+      "Punch,20ozbottles,12loose"
+    ],
+    "raw_name": "BodyarmorFlashIvTropical Punch,20ozbottles,12loose",
+    "img_path": "drink_images/sku_412344.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "412900",
+    "upc": "810113832173",
+    "sku_line": "SKU:412900|UPC:810113832173",
+    "title_lines": [
+      "BodyarmorFlashIVZero",
+      "SugarLemonLime,20ozbot..."
+    ],
+    "raw_name": "BodyarmorFlashIVZero SugarLemonLime,20ozbot...",
+    "img_path": "drink_images/sku_412900.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "413881",
+    "upc": "810113833231",
+    "sku_line": "SKU:413881|UPC:810113833231",
+    "title_lines": [
+      "BodyarmorFlashIVZero",
+      "SugarCaffeinePineapplePa..."
+    ],
+    "raw_name": "BodyarmorFlashIVZero SugarCaffeinePineapplePa...",
+    "img_path": "drink_images/sku_413881.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "413880",
+    "upc": "810113833255",
+    "sku_line": "SKU: 413880|UPC: 810113833255",
+    "title_lines": [
+      "BodyarmorFlashIVZero",
+      "Sugar CaffeineWatermelonP."
+    ],
+    "raw_name": "BodyarmorFlashIVZero Sugar CaffeineWatermelonP.",
+    "img_path": "drink_images/sku_413880.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "413820",
+    "upc": "049000560572",
+    "sku_line": "SKU:413820|UPC:049000560572",
+    "title_lines": [
+      "PoweradePowerWaterZero",
+      "Sugar MountainBerryBlast,."
+    ],
+    "raw_name": "PoweradePowerWaterZero Sugar MountainBerryBlast,.",
+    "img_path": "drink_images/sku_413820.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205832_myCoke.jpg",
+    "sku": "413821",
+    "upc": "049000560596",
+    "sku_line": "SKU:413821|UPC:049000560596",
+    "title_lines": [
+      "PoweradePowerWaterZero",
+      "SugarStrawberryKiwi,20oz"
+    ],
+    "raw_name": "PoweradePowerWaterZero SugarStrawberryKiwi,20oz",
+    "img_path": "drink_images/sku_413821.png",
+    "crop_h": 367,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205912_myCoke.jpg",
+    "sku": "413819",
+    "upc": "049000560619",
+    "sku_line": "SKU:413819|UPC:049000560619",
+    "title_lines": [
+      "Powerade Power Water Zero",
+      "Sugar Tropical Pineapple, 20"
+    ],
+    "raw_name": "Powerade Power Water Zero Sugar Tropical Pineapple, 20",
+    "img_path": "drink_images/sku_413819.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205912_myCoke.jpg",
+    "sku": "413818",
+    "upc": "049000560633",
+    "sku_line": "SKU:413818|UPC:049000560633",
+    "title_lines": [
+      "Powerade Power Water Zero",
+      "Sugar Watermelon, 20 oz bott.."
+    ],
+    "raw_name": "Powerade Power Water Zero Sugar Watermelon, 20 oz bott..",
+    "img_path": "drink_images/sku_413818.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205912_myCoke.jpg",
+    "sku": "414129",
+    "upc": "810113833477",
+    "sku_line": "SKU:414129|UPC:810113833477",
+    "title_lines": [
+      "Bodyarmor Fit Citrus",
+      "Grapefruit, 12 oz cans, 12 Lo..."
+    ],
+    "raw_name": "Bodyarmor Fit Citrus Grapefruit, 12 oz cans, 12 Lo...",
+    "img_path": "drink_images/sku_414129.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205912_myCoke.jpg",
+    "sku": "414133",
+    "upc": "810113833491",
+    "sku_line": "SKU:414133|UPC:810113833491",
+    "title_lines": [
+      "Bodyarmor Fit Mixed Berry, 12",
+      "oz cans, 12 Loose"
+    ],
+    "raw_name": "Bodyarmor Fit Mixed Berry, 12 oz cans, 12 Loose",
+    "img_path": "drink_images/sku_414133.png",
+    "crop_h": 412,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "414134",
+    "upc": "810113833552",
+    "sku_line": "SKU:414134UPC:810113833552",
+    "title_lines": [
+      "BodyarmorFitOrangeMango",
+      "12ozcans,12Loose"
+    ],
+    "raw_name": "BodyarmorFitOrangeMango 12ozcans,12Loose",
+    "img_path": "drink_images/sku_414134.png",
+    "crop_h": 478,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "414130",
+    "upc": "810113833606",
+    "sku_line": "SKU:414130|UPC:810113833606",
+    "title_lines": [
+      "BodyarmorFitTropical",
+      "Passionfruit,12ozcans,12.."
+    ],
+    "raw_name": "BodyarmorFitTropical Passionfruit,12ozcans,12..",
+    "img_path": "drink_images/sku_414130.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "414131",
+    "upc": "810113833644",
+    "sku_line": "SKU:414131|UPC: 810113833644",
+    "title_lines": [
+      "BodyarmorFitWatermelon",
+      "Lime,12ozcans,12Lo0se"
+    ],
+    "raw_name": "BodyarmorFitWatermelon Lime,12ozcans,12Lo0se",
+    "img_path": "drink_images/sku_414131.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "156136",
+    "upc": "858176002225",
+    "sku_line": "SKU:156136|UPC:858176002225",
+    "title_lines": [
+      "\u5341",
+      "BodyarmorSportwater,1Itr",
+      "bottles,12loose"
+    ],
+    "raw_name": "\u5341 BodyarmorSportwater,1Itr bottles,12loose",
+    "img_path": "drink_images/sku_156136.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "104239",
+    "upc": "049000986235",
+    "sku_line": "SKU:104239|UPC:049000986235",
+    "title_lines": [
+      "\u5341",
+      "Powerade Mountain Blast,2.5",
+      "gal bag-in-box"
+    ],
+    "raw_name": "\u5341 Powerade Mountain Blast,2.5 gal bag-in-box",
+    "img_path": "drink_images/sku_104239.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "156137",
+    "upc": "858176002218",
+    "sku_line": "SKU: 156137| UPC: 858176002218",
+    "title_lines": [
+      "Bodyarmor Sportwater,23.7oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "Bodyarmor Sportwater,23.7oz bottles,24loose",
+    "img_path": "drink_images/sku_156137.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "150932",
+    "upc": "049000995060",
+    "sku_line": "SKU:150932|UPC:049000995060",
+    "title_lines": [
+      "PoweradeMdBeverage",
+      "Component,23ozbag-in-box"
+    ],
+    "raw_name": "PoweradeMdBeverage Component,23ozbag-in-box",
+    "img_path": "drink_images/sku_150932.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "412529",
+    "upc": "810113831237",
+    "sku_line": "SKU:412529|UPC:810113831237",
+    "title_lines": [
+      "\u5341",
+      "BodyarmorLytePeachMango,",
+      "28ozbottles,15Loose"
+    ],
+    "raw_name": "\u5341 BodyarmorLytePeachMango, 28ozbottles,15Loose",
+    "img_path": "drink_images/sku_412529.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "412532",
+    "upc": "810113831213",
+    "sku_line": "SKU: 412532|UPC:810113831213",
+    "title_lines": [
+      "BodyarmorSuperdrinkBlue",
+      "Raspberry.28ozbottles,15"
+    ],
+    "raw_name": "BodyarmorSuperdrinkBlue Raspberry.28ozbottles,15",
+    "img_path": "drink_images/sku_412532.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "412520",
+    "upc": "810113831114",
+    "sku_line": "SKU:412520|UPC:810113831114",
+    "title_lines": [
+      "BodyarmorSuperdrinkFruit",
+      "Punch,28ozbottles,15Loose"
+    ],
+    "raw_name": "BodyarmorSuperdrinkFruit Punch,28ozbottles,15Loose",
+    "img_path": "drink_images/sku_412520.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205933_myCoke.jpg",
+    "sku": "412516",
+    "upc": "810113831138",
+    "sku_line": "SKU:412516|UPC:810113831138",
+    "title_lines": [
+      "BodyarmorSuperdrinkOrange",
+      "Mango,28ozbottles,15Lo0..."
+    ],
+    "raw_name": "BodyarmorSuperdrinkOrange Mango,28ozbottles,15Lo0...",
+    "img_path": "drink_images/sku_412516.png",
+    "crop_h": 388,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "412515",
+    "upc": "810113831121",
+    "sku_line": "SKU:412515|UPC:810113831121",
+    "title_lines": [
+      "BodyarmorSuperdrink",
+      "StrawberryBanana,28ozbot..."
+    ],
+    "raw_name": "BodyarmorSuperdrink StrawberryBanana,28ozbot...",
+    "img_path": "drink_images/sku_412515.png",
+    "crop_h": 485,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "412527",
+    "upc": "810113831176",
+    "sku_line": "SKU:412527|UPC:810113831176",
+    "title_lines": [
+      "\u5341",
+      "BodyarmorSuperdrink",
+      "StrawberryGrape,28ozbottl.."
+    ],
+    "raw_name": "\u5341 BodyarmorSuperdrink StrawberryGrape,28ozbottl..",
+    "img_path": "drink_images/sku_412527.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "412534",
+    "upc": "810113831091",
+    "sku_line": "SKU:412534|UPC:810113831091",
+    "title_lines": [
+      "BodyarmorSuperdrink",
+      "TropicalPassionfruit,28ozb.."
+    ],
+    "raw_name": "BodyarmorSuperdrink TropicalPassionfruit,28ozb..",
+    "img_path": "drink_images/sku_412534.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "412521",
+    "upc": "810113831107",
+    "sku_line": "SKU:412521|UPC:810113831107",
+    "title_lines": [
+      "BodyarmorSuperdrink",
+      "TropicalPunch,28ozbottles..."
+    ],
+    "raw_name": "BodyarmorSuperdrink TropicalPunch,28ozbottles...",
+    "img_path": "drink_images/sku_412521.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "413539",
+    "upc": "810113832777",
+    "sku_line": "SKU:413539|UPC:810113832777",
+    "title_lines": [
+      "BodyarmorZeroSugarFruit",
+      "Punch,28ozbottles,15Loose"
+    ],
+    "raw_name": "BodyarmorZeroSugarFruit Punch,28ozbottles,15Loose",
+    "img_path": "drink_images/sku_413539.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "413538",
+    "upc": "810113832784",
+    "sku_line": "SKU:413538UPC:810113832784",
+    "title_lines": [
+      "\u5341",
+      "BodyarmorZeroSugarLemon",
+      "Lime,28ozbottles,15Lo0se"
+    ],
+    "raw_name": "\u5341 BodyarmorZeroSugarLemon Lime,28ozbottles,15Lo0se",
+    "img_path": "drink_images/sku_413538.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "156843",
+    "upc": "049000179385",
+    "sku_line": "SKU:156843|UPC:049000179385",
+    "title_lines": [
+      "PoweradeFruitPunch,28oz",
+      "bottles,15loose"
+    ],
+    "raw_name": "PoweradeFruitPunch,28oz bottles,15loose",
+    "img_path": "drink_images/sku_156843.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "156848",
+    "upc": "049000179408",
+    "sku_line": "SKU:156848|UPC:049000179408",
+    "title_lines": [
+      "PoweradeGrape,28ozbottles",
+      "15loose"
+    ],
+    "raw_name": "PoweradeGrape,28ozbottles 15loose",
+    "img_path": "drink_images/sku_156848.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "412513",
+    "upc": "049000554458",
+    "sku_line": "SKU:412513|UPC:049000554458",
+    "title_lines": [
+      "PoweradeIslandBurst,28oz",
+      "bottles,15loose"
+    ],
+    "raw_name": "PoweradeIslandBurst,28oz bottles,15loose",
+    "img_path": "drink_images/sku_412513.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "156837",
+    "upc": "049000179378",
+    "sku_line": "SKU:156837UPC:049000179378",
+    "title_lines": [
+      "\u5341",
+      "PoweradeLemonLime,28oz",
+      "bottles,15loose"
+    ],
+    "raw_name": "\u5341 PoweradeLemonLime,28oz bottles,15loose",
+    "img_path": "drink_images/sku_156837.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_205952_myCoke.jpg",
+    "sku": "156834",
+    "upc": "049000179354",
+    "sku_line": "SKU:156834|UPC:049000179354",
+    "title_lines": [
+      "Powerade MountainBerry",
+      "Blast,28ozbottles,15loose"
+    ],
+    "raw_name": "Powerade MountainBerry Blast,28ozbottles,15loose",
+    "img_path": "drink_images/sku_156834.png",
+    "crop_h": 382,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210015_myCoke.jpg",
+    "sku": "156853",
+    "upc": "049000179361",
+    "sku_line": "SKU:156853\u4e28UPC:049000179361",
+    "title_lines": [
+      "Powerade Orange, 28 oz",
+      "bottles, 15 loose"
+    ],
+    "raw_name": "Powerade Orange, 28 oz bottles, 15 loose",
+    "img_path": "drink_images/sku_156853.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210015_myCoke.jpg",
+    "sku": "156845",
+    "upc": "049000179392",
+    "sku_line": "SKU:156845|UPC:049000179392",
+    "title_lines": [
+      "Powerade Strawberry",
+      "Lemonade, 28 oz bottles, 15 I.."
+    ],
+    "raw_name": "Powerade Strawberry Lemonade, 28 oz bottles, 15 I..",
+    "img_path": "drink_images/sku_156845.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210015_myCoke.jpg",
+    "sku": "413547",
+    "upc": "049000559156",
+    "sku_line": "SKU:413547|UPC:049000559156",
+    "title_lines": [
+      "Powerade Xtra Sour Peach",
+      "Pucker, 28 oz bottles, 15 Lo0.."
+    ],
+    "raw_name": "Powerade Xtra Sour Peach Pucker, 28 oz bottles, 15 Lo0..",
+    "img_path": "drink_images/sku_413547.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210015_myCoke.jpg",
+    "sku": "156846",
+    "upc": "049000179347",
+    "sku_line": "SKU:156846|UPC:049000179347",
+    "title_lines": [
+      "\u00d7",
+      "Powerade Zero Fruit Punch, 28",
+      "oz bottles, 15 loose"
+    ],
+    "raw_name": "\u00d7 Powerade Zero Fruit Punch, 28 oz bottles, 15 loose",
+    "img_path": "drink_images/sku_156846.png",
+    "crop_h": 425,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210038_myCoke.jpg",
+    "sku": "156850",
+    "upc": "049000179316",
+    "sku_line": "SKU:156850\u4e28UPC:049000179316",
+    "title_lines": [
+      "Powerade Zero Grape, 28 oz",
+      "bottles, 15 loose"
+    ],
+    "raw_name": "Powerade Zero Grape, 28 oz bottles, 15 loose",
+    "img_path": "drink_images/sku_156850.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210038_myCoke.jpg",
+    "sku": "156832",
+    "upc": "049000179323",
+    "sku_line": "SKU:156832\u4e28UPC:049000179323",
+    "title_lines": [
+      "Powerade Zero Mixed Berry, 28",
+      "oz bottles, 15 loose"
+    ],
+    "raw_name": "Powerade Zero Mixed Berry, 28 oz bottles, 15 loose",
+    "img_path": "drink_images/sku_156832.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210038_myCoke.jpg",
+    "sku": "156842",
+    "upc": "049000179330",
+    "sku_line": "SKU:156842|UPC:049000179330",
+    "title_lines": [
+      "Powerade Zero Orange, 28 oz",
+      "bottles, 15 loose"
+    ],
+    "raw_name": "Powerade Zero Orange, 28 oz bottles, 15 loose",
+    "img_path": "drink_images/sku_156842.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210038_myCoke.jpg",
+    "sku": "412494",
+    "upc": "049000554182",
+    "sku_line": "SKU:412494|UPC:049000554182",
+    "title_lines": [
+      "Powerade Zero Strawberry",
+      "Smash, 28 oz bottles, 15 loose"
+    ],
+    "raw_name": "Powerade Zero Strawberry Smash, 28 oz bottles, 15 loose",
+    "img_path": "drink_images/sku_412494.png",
+    "crop_h": 368,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "413902",
+    "upc": "049000561388",
+    "sku_line": "SKU:413902|UPC:049000561388",
+    "title_lines": [
+      "PoweradeXtraSourGreen",
+      "Apple\uff0c28ozbottles,15Loose"
+    ],
+    "raw_name": "PoweradeXtraSourGreen Apple\uff0c28ozbottles,15Loose",
+    "img_path": "drink_images/sku_413902.png",
+    "crop_h": 485,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "413158",
+    "upc": "786162411877",
+    "sku_line": "SKU:413158|UPC: 786162411877",
+    "title_lines": [
+      "\u5341",
+      "GlaceauVitaminwaterElevate,",
+      "20ozbottles,12Loose"
+    ],
+    "raw_name": "\u5341 GlaceauVitaminwaterElevate, 20ozbottles,12Loose",
+    "img_path": "drink_images/sku_413158.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "156091",
+    "upc": "786162101068",
+    "sku_line": "SKU:156091|UPC:786162101068",
+    "title_lines": [
+      "GlaceauvitaminwaterEnergy,",
+      "20ozbottles,12loose"
+    ],
+    "raw_name": "GlaceauvitaminwaterEnergy, 20ozbottles,12loose",
+    "img_path": "drink_images/sku_156091.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "156085",
+    "upc": "786162101075",
+    "sku_line": "SKU:156085|UPC:786162101075",
+    "title_lines": [
+      "Glaceauvitaminwater",
+      "Essential,20ozbottles,12lo.."
+    ],
+    "raw_name": "Glaceauvitaminwater Essential,20ozbottles,12lo..",
+    "img_path": "drink_images/sku_156085.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "156084",
+    "upc": "786162101082",
+    "sku_line": "SKU:156084|UPC: 786162101082",
+    "title_lines": [
+      "Glaceau vitaminwaterFocus,",
+      "20ozbottles,12loose"
+    ],
+    "raw_name": "Glaceau vitaminwaterFocus, 20ozbottles,12loose",
+    "img_path": "drink_images/sku_156084.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "156090",
+    "upc": "786162301116",
+    "sku_line": "SKU: 156090|UPC: 786162301116",
+    "title_lines": [
+      "Glaceau vitaminwaterPower C,",
+      "20ozbottles,12loose"
+    ],
+    "raw_name": "Glaceau vitaminwaterPower C, 20ozbottles,12loose",
+    "img_path": "drink_images/sku_156090.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "156082",
+    "upc": "786162204851",
+    "sku_line": "SKU:156082|UPC:786162204851",
+    "title_lines": [
+      "GlaceauvitaminwaterRefresh,",
+      "20ozbottles,12loose"
+    ],
+    "raw_name": "GlaceauvitaminwaterRefresh, 20ozbottles,12loose",
+    "img_path": "drink_images/sku_156082.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "156089",
+    "upc": "786162301154",
+    "sku_line": "SKU:156089|UPC: 786162301154",
+    "title_lines": [
+      "Glaceau vitaminwaterxxX\uff0c20",
+      "ozbottles,12loose"
+    ],
+    "raw_name": "Glaceau vitaminwaterxxX\uff0c20 ozbottles,12loose",
+    "img_path": "drink_images/sku_156089.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "156088",
+    "upc": "786162203731",
+    "sku_line": "SKU:156088|UPC:786162203731",
+    "title_lines": [
+      "GlaceauvitaminwaterZero",
+      "Sugar Power C,20 ozbottles..."
+    ],
+    "raw_name": "GlaceauvitaminwaterZero Sugar Power C,20 ozbottles...",
+    "img_path": "drink_images/sku_156088.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "413163",
+    "upc": "786162411891",
+    "sku_line": "SKU: 413163|UPC:786162411891",
+    "title_lines": [
+      "\u5341",
+      "GlaceauVitaminwaterZero",
+      "SugarRe-Hydrate,20ozbott..."
+    ],
+    "raw_name": "\u5341 GlaceauVitaminwaterZero SugarRe-Hydrate,20ozbott...",
+    "img_path": "drink_images/sku_413163.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210127_myCoke.jpg",
+    "sku": "156079",
+    "upc": "786162202970",
+    "sku_line": "SKU:156079|UPC: 786162202970",
+    "title_lines": [
+      "GlaceauVitaminwaterZero",
+      "SugarSqueezed,20ozbottle.."
+    ],
+    "raw_name": "GlaceauVitaminwaterZero SugarSqueezed,20ozbottle..",
+    "img_path": "drink_images/sku_156079.png",
+    "crop_h": 382,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210202_myCoke.jpg",
+    "sku": "156078",
+    "upc": "786162202963",
+    "sku_line": "SKU:156078|UPC:786162202963",
+    "title_lines": [
+      "GlaceauVitaminwaterZero",
+      "SugarxxX,20ozbottles,12."
+    ],
+    "raw_name": "GlaceauVitaminwaterZero SugarxxX,20ozbottles,12.",
+    "img_path": "drink_images/sku_156078.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210202_myCoke.jpg",
+    "sku": "411713",
+    "upc": "786162411143",
+    "sku_line": "SKU:411713|UPC:786162411143",
+    "title_lines": [
+      "GlaceausmartwaterAlkaline",
+      "WithAntioxidant,1.5Itrbottl.."
+    ],
+    "raw_name": "GlaceausmartwaterAlkaline WithAntioxidant,1.5Itrbottl..",
+    "img_path": "drink_images/sku_411713.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210202_myCoke.jpg",
+    "sku": "152098",
+    "upc": "786162910189",
+    "sku_line": "SKU:152098|UPC:786162910189",
+    "title_lines": [
+      "Glaceauvitaminwater Md",
+      "Beverage Component,11.5o..."
+    ],
+    "raw_name": "Glaceauvitaminwater Md Beverage Component,11.5o...",
+    "img_path": "drink_images/sku_152098.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210202_myCoke.jpg",
+    "sku": "411691",
+    "upc": "786162411228",
+    "sku_line": "SKU:411691|UPC:786162411228",
+    "title_lines": [
+      "GlaceausmartwaterAlkaline",
+      "WithAntioxidant,23.7ozbott.."
+    ],
+    "raw_name": "GlaceausmartwaterAlkaline WithAntioxidant,23.7ozbott..",
+    "img_path": "drink_images/sku_411691.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210202_myCoke.jpg",
+    "sku": "411690",
+    "upc": "786162411204",
+    "sku_line": "SKU:411690|UPC:786162411204",
+    "title_lines": [
+      "GlaceauSmartwaterAlkaline",
+      "With Antioxidant,1Itrbottles."
+    ],
+    "raw_name": "GlaceauSmartwaterAlkaline With Antioxidant,1Itrbottles.",
+    "img_path": "drink_images/sku_411690.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210202_myCoke.jpg",
+    "sku": "112259",
+    "upc": "049000409772",
+    "sku_line": "SKU:112259|UPC:049000409772",
+    "title_lines": [
+      "Dasani,20ozbottles,24loose"
+    ],
+    "raw_name": "Dasani,20ozbottles,24loose",
+    "img_path": "drink_images/sku_112259.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210202_myCoke.jpg",
+    "sku": "129254",
+    "upc": "786162001443",
+    "sku_line": "SKU:129254|UPC:786162001443",
+    "title_lines": [
+      "Glaceausmartwater,20oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "Glaceausmartwater,20oz bottles,24loose",
+    "img_path": "drink_images/sku_129254.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210202_myCoke.jpg",
+    "sku": "129253",
+    "upc": "786162043122",
+    "sku_line": "SKU:129253|UPC:786162043122",
+    "title_lines": [
+      "Glaceausmartwater,1.5Itr",
+      "bottles,12loose"
+    ],
+    "raw_name": "Glaceausmartwater,1.5Itr bottles,12loose",
+    "img_path": "drink_images/sku_129253.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210202_myCoke.jpg",
+    "sku": "412570",
+    "upc": "021136181647",
+    "sku_line": "SKU:412570|UPC:021136181647",
+    "title_lines": [
+      "TopoChicoSaboresBlueberry",
+      "WithHibiscusExtract,12oz.."
+    ],
+    "raw_name": "TopoChicoSaboresBlueberry WithHibiscusExtract,12oz..",
+    "img_path": "drink_images/sku_412570.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210243_myCoke.jpg",
+    "sku": "412570",
+    "upc": "021136181647",
+    "sku_line": "SKU:412570|UPC:021136181647",
+    "title_lines": [
+      "Topo Chico Sabores Blueberry",
+      "WithHibiscus Extract, 12 oz ...",
+      "OE"
+    ],
+    "raw_name": "Topo Chico Sabores Blueberry WithHibiscus Extract, 12 oz ... OE",
+    "img_path": "drink_images/sku_412570.png",
+    "crop_h": 478,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210243_myCoke.jpg",
+    "sku": "412569",
+    "upc": "021136181654",
+    "sku_line": "SKU:412569|UPC:021136181654",
+    "title_lines": [
+      "Topo Chico Sabores Lime With",
+      "Mint Extract, 12 oz cans, 8 pk..."
+    ],
+    "raw_name": "Topo Chico Sabores Lime With Mint Extract, 12 oz cans, 8 pk...",
+    "img_path": "drink_images/sku_412569.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210243_myCoke.jpg",
+    "sku": "412696",
+    "upc": "021136181692",
+    "sku_line": "SKU:412696|UPC:021136181692",
+    "title_lines": [
+      "Topo Chico Sabores Raspberry",
+      "With Lemon, 12 oz cans, 8 pk..."
+    ],
+    "raw_name": "Topo Chico Sabores Raspberry With Lemon, 12 oz cans, 8 pk...",
+    "img_path": "drink_images/sku_412696.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210243_myCoke.jpg",
+    "sku": "412571",
+    "upc": "021136181661",
+    "sku_line": "SKU:412571|UPC:021136181661",
+    "title_lines": [
+      "Topo Chico Sabores Tangerine",
+      "With Ginger Extract, 12 oz ca..."
+    ],
+    "raw_name": "Topo Chico Sabores Tangerine With Ginger Extract, 12 oz ca...",
+    "img_path": "drink_images/sku_412571.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210243_myCoke.jpg",
+    "sku": "116366",
+    "upc": "049000031652",
+    "sku_line": "SKU:116366|UPC:049000031652",
+    "title_lines": [
+      "Dasani, 16.9 oz bottles, 24 pk"
+    ],
+    "raw_name": "Dasani, 16.9 oz bottles, 24 pk",
+    "img_path": "drink_images/sku_116366.png",
+    "crop_h": 486,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210243_myCoke.jpg",
+    "sku": "112260",
+    "upc": "049000526561",
+    "sku_line": "SKU:112260|UPC:049000526561",
+    "title_lines": [
+      "Dasani, 1Itr bottles, 12 loose"
+    ],
+    "raw_name": "Dasani, 1Itr bottles, 12 loose",
+    "img_path": "drink_images/sku_112260.png",
+    "crop_h": 440,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210322_myCoke.jpg",
+    "sku": "112260",
+    "upc": "049000526561",
+    "sku_line": "SKU:112260|UPC:049000526561",
+    "title_lines": [
+      "Dasani, 1 Itr bottles, 12 loose"
+    ],
+    "raw_name": "Dasani, 1 Itr bottles, 12 loose",
+    "img_path": "drink_images/sku_112260.png",
+    "crop_h": 394,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210322_myCoke.jpg",
+    "sku": "129252",
+    "upc": "786162023124",
+    "sku_line": "SKU:129252|UPC:786162023124",
+    "title_lines": [
+      "Glaceau Smartwater, 1 Itr",
+      "bottles, 12 loose"
+    ],
+    "raw_name": "Glaceau Smartwater, 1 Itr bottles, 12 loose",
+    "img_path": "drink_images/sku_129252.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210322_myCoke.jpg",
+    "sku": "132296",
+    "upc": "786162001528",
+    "sku_line": "SKU:132296|UPC:786162001528",
+    "title_lines": [
+      "Glaceau smartwater, 23.7 oz",
+      "bottles, 24 loose"
+    ],
+    "raw_name": "Glaceau smartwater, 23.7 oz bottles, 24 loose",
+    "img_path": "drink_images/sku_132296.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210322_myCoke.jpg",
+    "sku": "152013",
+    "upc": "049000171549",
+    "sku_line": "SKU:152013\u4e28UPC:049000171549",
+    "title_lines": [
+      "Gold Peak Extra Sweet Tea,",
+      "18.5 ozbottles, 12 loose"
+    ],
+    "raw_name": "Gold Peak Extra Sweet Tea, 18.5 ozbottles, 12 loose",
+    "img_path": "drink_images/sku_152013.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210322_myCoke.jpg",
+    "sku": "135333",
+    "upc": "083900105754",
+    "sku_line": "SKU:135333|UPC:083900105754",
+    "title_lines": [
+      "GoldPeakSweetenedBlack",
+      "Tea,18.5ozbottles,12loose"
+    ],
+    "raw_name": "GoldPeakSweetenedBlack Tea,18.5ozbottles,12loose",
+    "img_path": "drink_images/sku_135333.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210322_myCoke.jpg",
+    "sku": "135336",
+    "upc": "083900105976",
+    "sku_line": "SKU:135336|UPC:083900105976",
+    "title_lines": [
+      "GoldPeakSweetened Green",
+      "Tea,18.5ozbottles,12loose"
+    ],
+    "raw_name": "GoldPeakSweetened Green Tea,18.5ozbottles,12loose",
+    "img_path": "drink_images/sku_135336.png",
+    "crop_h": 411,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "135336",
+    "upc": "083900105976",
+    "sku_line": "SKU:135336|UPC:083900105976",
+    "title_lines": [
+      "GoldPeakSweetenedGreen",
+      "Tea,18.5ozbottles,12loose"
+    ],
+    "raw_name": "GoldPeakSweetenedGreen Tea,18.5ozbottles,12loose",
+    "img_path": "drink_images/sku_135336.png",
+    "crop_h": 473,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "135337",
+    "upc": "083900105778",
+    "sku_line": "SKU:135337UPC:083900105778",
+    "title_lines": [
+      "\u5341",
+      "GoldPeakUnsweetened Black",
+      "Tea,18.5ozbottles,12loose"
+    ],
+    "raw_name": "\u5341 GoldPeakUnsweetened Black Tea,18.5ozbottles,12loose",
+    "img_path": "drink_images/sku_135337.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "135334",
+    "upc": "083900105761",
+    "sku_line": "SKU:135334|UPC:083900105761",
+    "title_lines": [
+      "GoldPeakZeroSugarSweet",
+      "Tea,18.5ozbottles,12loose"
+    ],
+    "raw_name": "GoldPeakZeroSugarSweet Tea,18.5ozbottles,12loose",
+    "img_path": "drink_images/sku_135334.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "132766",
+    "upc": "083900900656",
+    "sku_line": "SKU:132766|UPC:083900900656",
+    "title_lines": [
+      "GoldPeakPremium",
+      "UnsweetenedTea,2.5galba..."
+    ],
+    "raw_name": "GoldPeakPremium UnsweetenedTea,2.5galba...",
+    "img_path": "drink_images/sku_132766.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "139200",
+    "upc": "083900900687",
+    "sku_line": "SKU:139200|UPC:083900900687",
+    "title_lines": [
+      "GoldPeakSouthernStyleTea,",
+      "5galbag-in-box"
+    ],
+    "raw_name": "GoldPeakSouthernStyleTea, 5galbag-in-box",
+    "img_path": "drink_images/sku_139200.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "158002",
+    "upc": "025000037771",
+    "sku_line": "SKU: 158002| UPC: 025000037771",
+    "title_lines": [
+      "Minute Maid Berry Punch,20",
+      "ozbottles,24lo0se"
+    ],
+    "raw_name": "Minute Maid Berry Punch,20 ozbottles,24lo0se",
+    "img_path": "drink_images/sku_158002.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "157396",
+    "upc": "025000120008",
+    "sku_line": "SKU:157396|UPC:025000120008",
+    "title_lines": [
+      "Minute Maid BlueRaspberry,",
+      "20ozbottles,24loose"
+    ],
+    "raw_name": "Minute Maid BlueRaspberry, 20ozbottles,24loose",
+    "img_path": "drink_images/sku_157396.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "115293",
+    "upc": "025000058028",
+    "sku_line": "SKU:115293|UPC:025000058028",
+    "title_lines": [
+      "Minute Maid Fruit Punch,20",
+      "ozbottles,24loose"
+    ],
+    "raw_name": "Minute Maid Fruit Punch,20 ozbottles,24loose",
+    "img_path": "drink_images/sku_115293.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "155224",
+    "upc": "025000100604",
+    "sku_line": "SKU:155224|UPC:025000100604",
+    "title_lines": [
+      "\u5341",
+      "Minute MaidKiwiStrawberry,",
+      "20ozbottles,24loose"
+    ],
+    "raw_name": "\u5341 Minute MaidKiwiStrawberry, 20ozbottles,24loose",
+    "img_path": "drink_images/sku_155224.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "115304",
+    "upc": "025000058011",
+    "sku_line": "SKU:115304|UPC:025000058011",
+    "title_lines": [
+      "Minute Maid Lemonade,20 oz",
+      "bottles,24Lo0se"
+    ],
+    "raw_name": "Minute Maid Lemonade,20 oz bottles,24Lo0se",
+    "img_path": "drink_images/sku_115304.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210400_myCoke.jpg",
+    "sku": "412587",
+    "upc": "025000135736",
+    "sku_line": "SKU:412587|UPC:025000135736",
+    "title_lines": [
+      "Minute Maid PineappleBurst,",
+      "20ozbottles,24Lo0se"
+    ],
+    "raw_name": "Minute Maid PineappleBurst, 20ozbottles,24Lo0se",
+    "img_path": "drink_images/sku_412587.png",
+    "crop_h": 396,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "116533",
+    "upc": "025000058868",
+    "sku_line": "SKU:116533|UPC:025000058868",
+    "title_lines": [
+      "MinuteMaidPinkLemonade,",
+      "20ozbottles,24loose"
+    ],
+    "raw_name": "MinuteMaidPinkLemonade, 20ozbottles,24loose",
+    "img_path": "drink_images/sku_116533.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "157492",
+    "upc": "025000121197",
+    "sku_line": "SKU: 157492|UPC:025000121197",
+    "title_lines": [
+      "Minute Maid ZeroSugar",
+      "Lemonade,20ozbottles,241"
+    ],
+    "raw_name": "Minute Maid ZeroSugar Lemonade,20ozbottles,241",
+    "img_path": "drink_images/sku_157492.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "155186",
+    "upc": "883315090320",
+    "sku_line": "SKU:155186|UPC:883315090320",
+    "title_lines": [
+      "Tum-EYummiesBigBerry",
+      "Blast,10.1ozbottles,12loose"
+    ],
+    "raw_name": "Tum-EYummiesBigBerry Blast,10.1ozbottles,12loose",
+    "img_path": "drink_images/sku_155186.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "155183",
+    "upc": "883315090344",
+    "sku_line": "SKU:155183|UPC:883315090344",
+    "title_lines": [
+      "Tum-EYummiesEdgyOrange",
+      "Burst,10.1ozbottles,12 loo..."
+    ],
+    "raw_name": "Tum-EYummiesEdgyOrange Burst,10.1ozbottles,12 loo...",
+    "img_path": "drink_images/sku_155183.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "155259",
+    "upc": "883315090337",
+    "sku_line": "SKU:155259|UPC:883315090337",
+    "title_lines": [
+      "\u5341",
+      "Tum-EYummiesEpicApple",
+      "Flip,10.1ozbottles\uff0c12loose"
+    ],
+    "raw_name": "\u5341 Tum-EYummiesEpicApple Flip,10.1ozbottles\uff0c12loose",
+    "img_path": "drink_images/sku_155259.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "155184",
+    "upc": "883315090313",
+    "sku_line": "SKU:155184|UPC:883315090313",
+    "title_lines": [
+      "Tum-EYummiesFruitPunch",
+      "Party.10.1ozbottles,12loose"
+    ],
+    "raw_name": "Tum-EYummiesFruitPunch Party.10.1ozbottles,12loose",
+    "img_path": "drink_images/sku_155184.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "116320",
+    "upc": "025000058387",
+    "sku_line": "SKU:116320|UPC:025000058387",
+    "title_lines": [
+      "\u5341",
+      "MinuteMaidLemonade\uff0c12oz",
+      "cans,12pk,2ct"
+    ],
+    "raw_name": "\u5341 MinuteMaidLemonade\uff0c12oz cans,12pk,2ct",
+    "img_path": "drink_images/sku_116320.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "154900",
+    "upc": "025000061523",
+    "sku_line": "SKU:154900|UPC:025000061523",
+    "title_lines": [
+      "\u5341",
+      "MinuteMaidJuice-To-Go",
+      "AppleJuice100,12ozbottle..."
+    ],
+    "raw_name": "\u5341 MinuteMaidJuice-To-Go AppleJuice100,12ozbottle...",
+    "img_path": "drink_images/sku_154900.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "154914",
+    "upc": "025000054075",
+    "sku_line": "SKU:154914|UPC:025000054075",
+    "title_lines": [
+      "MinuteMaid Juice-To-Go",
+      "CranberryApple Raspberry,1..."
+    ],
+    "raw_name": "MinuteMaid Juice-To-Go CranberryApple Raspberry,1...",
+    "img_path": "drink_images/sku_154914.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "154915",
+    "upc": "025000052194",
+    "sku_line": "SKU:154915|UPC:025000052194",
+    "title_lines": [
+      "\u5341",
+      "Minute Maid Juice-To-Go",
+      "CranberryGrape\uff0c12ozbottl..."
+    ],
+    "raw_name": "\u5341 Minute Maid Juice-To-Go CranberryGrape\uff0c12ozbottl...",
+    "img_path": "drink_images/sku_154915.png",
+    "crop_h": 493,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210421_myCoke.jpg",
+    "sku": "154898",
+    "upc": "025000062193",
+    "sku_line": "SKU:154898|UPC:025000062193",
+    "title_lines": [
+      "MinuteMaidJuice-To-Go",
+      "OrangeJuice100,12ozbottl.."
+    ],
+    "raw_name": "MinuteMaidJuice-To-Go OrangeJuice100,12ozbottl..",
+    "img_path": "drink_images/sku_154898.png",
+    "crop_h": 361,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210449_myCoke.jpg",
+    "sku": "154899",
+    "upc": "025000051814",
+    "sku_line": "SKU:154899|UPC:025000051814",
+    "title_lines": [
+      "Minute Maid Juice-To-Go",
+      "Pineapple Orange Juice 100, .."
+    ],
+    "raw_name": "Minute Maid Juice-To-Go Pineapple Orange Juice 100, ..",
+    "img_path": "drink_images/sku_154899.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210449_myCoke.jpg",
+    "sku": "104148",
+    "upc": "049000983142",
+    "sku_line": "SKU:104148|UPC:049000983142",
+    "title_lines": [
+      "Hi-C Fruit Punch, 2.5 gal",
+      "bag-in-box"
+    ],
+    "raw_name": "Hi-C Fruit Punch, 2.5 gal bag-in-box",
+    "img_path": "drink_images/sku_104148.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210449_myCoke.jpg",
+    "sku": "103895",
+    "upc": "049000983005",
+    "sku_line": "SKU:103895|UPC:049000983005",
+    "title_lines": [
+      "Hi-C Pink Lemonade, 2.5 gal",
+      "bag-in-box"
+    ],
+    "raw_name": "Hi-C Pink Lemonade, 2.5 gal bag-in-box",
+    "img_path": "drink_images/sku_103895.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210449_myCoke.jpg",
+    "sku": "109147",
+    "upc": "049000988321",
+    "sku_line": "SKU:109147\u4e28UPC:049000988321",
+    "title_lines": [
+      "Minute Maid Lemonade, 2.5",
+      "gal bag-in-box"
+    ],
+    "raw_name": "Minute Maid Lemonade, 2.5 gal bag-in-box",
+    "img_path": "drink_images/sku_109147.png",
+    "crop_h": 427,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "132605",
+    "upc": "025000053924",
+    "sku_line": "SKU:132605|UPC:025000053924",
+    "title_lines": [
+      "Minute Maid Fruit Punch,2Itr",
+      "bottles,8loose"
+    ],
+    "raw_name": "Minute Maid Fruit Punch,2Itr bottles,8loose",
+    "img_path": "drink_images/sku_132605.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "132551",
+    "upc": "025000053818",
+    "sku_line": "SKU:132551|UPC:025000053818",
+    "title_lines": [
+      "Minute MaidLemonade,2Itr",
+      "bottles,8loose"
+    ],
+    "raw_name": "Minute MaidLemonade,2Itr bottles,8loose",
+    "img_path": "drink_images/sku_132551.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "132612",
+    "upc": "025000053498",
+    "sku_line": "SKU:132612|UPC:025000053498",
+    "title_lines": [
+      "Minute Maid PinkLemonade,2",
+      "Itrbottles,8loose"
+    ],
+    "raw_name": "Minute Maid PinkLemonade,2 Itrbottles,8loose",
+    "img_path": "drink_images/sku_132612.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "151218",
+    "upc": "025000081392",
+    "sku_line": "SKU:151218|UPC:025000081392",
+    "title_lines": [
+      "\u4e2d",
+      "MinuteMaid Lemonade/Light",
+      "MdBeverageComponent,34..."
+    ],
+    "raw_name": "\u4e2d MinuteMaid Lemonade/Light MdBeverageComponent,34...",
+    "img_path": "drink_images/sku_151218.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "412451",
+    "upc": "049000553628",
+    "sku_line": "SKU:412451|UPC:049000553628",
+    "title_lines": [
+      "\u5341",
+      "Dunkin'Caramel Iced Coffee,",
+      "13.7ozbottles,12loose"
+    ],
+    "raw_name": "\u5341 Dunkin'Caramel Iced Coffee, 13.7ozbottles,12loose",
+    "img_path": "drink_images/sku_412451.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "152921",
+    "upc": "049000172393",
+    "sku_line": "SKU:152921|UPC:049000172393",
+    "title_lines": [
+      "Dunkin'FrenchVanillalced",
+      "Coffee,13.7ozbottles,12Lo.."
+    ],
+    "raw_name": "Dunkin'FrenchVanillalced Coffee,13.7ozbottles,12Lo..",
+    "img_path": "drink_images/sku_152921.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "152922",
+    "upc": "049000172386",
+    "sku_line": "SKU:152922|UPC:049000172386",
+    "title_lines": [
+      "Dunkin'Mocha Iced Coffee,",
+      "13.7ozbottles,12Loose"
+    ],
+    "raw_name": "Dunkin'Mocha Iced Coffee, 13.7ozbottles,12Loose",
+    "img_path": "drink_images/sku_152922.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "152923",
+    "upc": "049000172379",
+    "sku_line": "SKU:152923|UPC:049000172379",
+    "title_lines": [
+      "\u5341",
+      "Dunkin'Original Iced Coffee,",
+      "13.7ozbottles,12Lo0se"
+    ],
+    "raw_name": "\u5341 Dunkin'Original Iced Coffee, 13.7ozbottles,12Lo0se",
+    "img_path": "drink_images/sku_152923.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "413616",
+    "upc": "049000559194",
+    "sku_line": "SKU: 413616|UPC: 049000559194",
+    "title_lines": [
+      "Dunkin'DoubleCafeMocha",
+      "IcedEspresso,15ozcans,12."
+    ],
+    "raw_name": "Dunkin'DoubleCafeMocha IcedEspresso,15ozcans,12.",
+    "img_path": "drink_images/sku_413616.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "413935",
+    "upc": "049000561623",
+    "sku_line": "SKU:413935|UPC:049000561623",
+    "title_lines": [
+      "Dunkin'Double Original Iced",
+      "Espresso,15ozcans,12Loo."
+    ],
+    "raw_name": "Dunkin'Double Original Iced Espresso,15ozcans,12Loo.",
+    "img_path": "drink_images/sku_413935.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210516_myCoke.jpg",
+    "sku": "156184",
+    "upc": "811620022002",
+    "sku_line": "SKU:156184|UPC:811620022002",
+    "title_lines": [
+      "CorePowerProteinChocolate",
+      "26G,14ozbottles,12loose"
+    ],
+    "raw_name": "CorePowerProteinChocolate 26G,14ozbottles,12loose",
+    "img_path": "drink_images/sku_156184.png",
+    "crop_h": 370,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210547_myCoke.jpg",
+    "sku": "151817",
+    "upc": "811620020640",
+    "sku_line": "SKU:151817|UPC:811620020640",
+    "title_lines": [
+      "Elite 42G, 14 oz bottles, 12 lo..."
+    ],
+    "raw_name": "Elite 42G, 14 oz bottles, 12 lo...",
+    "img_path": "drink_images/sku_151817.png",
+    "crop_h": 406,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210547_myCoke.jpg",
+    "sku": "156188",
+    "upc": "811620022033",
+    "sku_line": "SKU:156188\u4e28UPC:811620022033",
+    "title_lines": [
+      "Core Power Protein Strawberry",
+      "Banana 26G, 14 oz bottles, 1..."
+    ],
+    "raw_name": "Core Power Protein Strawberry Banana 26G, 14 oz bottles, 1...",
+    "img_path": "drink_images/sku_156188.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210547_myCoke.jpg",
+    "sku": "157128",
+    "upc": "811620021470",
+    "sku_line": "SKU:157128|UPC:811620021470",
+    "title_lines": [
+      "Core Power Protein Strawberry",
+      "Elite 42G, 14 oz bottles, 12 lo..."
+    ],
+    "raw_name": "Core Power Protein Strawberry Elite 42G, 14 oz bottles, 12 lo...",
+    "img_path": "drink_images/sku_157128.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210547_myCoke.jpg",
+    "sku": "156182",
+    "upc": "811620022019",
+    "sku_line": "SKU:156182|UPC:811620022019",
+    "title_lines": [
+      "Core Power Protein Vanilla",
+      "26G,14ozbottles,12loose"
+    ],
+    "raw_name": "Core Power Protein Vanilla 26G,14ozbottles,12loose",
+    "img_path": "drink_images/sku_156182.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210547_myCoke.jpg",
+    "sku": "151818",
+    "upc": "811620020664",
+    "sku_line": "SKU:151818|UPC:811620020664",
+    "title_lines": [
+      "Core Power Protein Vanilla",
+      "Elite42G,14ozbottles,12lo.."
+    ],
+    "raw_name": "Core Power Protein Vanilla Elite42G,14ozbottles,12lo..",
+    "img_path": "drink_images/sku_151818.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210547_myCoke.jpg",
+    "sku": "410721",
+    "upc": "811620020428",
+    "sku_line": "SKU:410721|UPC:811620020428",
+    "title_lines": [
+      "Fairlife Milk 2% Chocolate, 14",
+      "ozbottles,12loose"
+    ],
+    "raw_name": "Fairlife Milk 2% Chocolate, 14 ozbottles,12loose",
+    "img_path": "drink_images/sku_410721.png",
+    "crop_h": 399,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210610_myCoke.jpg",
+    "sku": "411523",
+    "upc": "811620020886",
+    "sku_line": "SKU:411523|UPC:811620020886",
+    "title_lines": [
+      "Fairlife Milk 2% Reduced Fat,",
+      "14 oz bottles, 12 loose"
+    ],
+    "raw_name": "Fairlife Milk 2% Reduced Fat, 14 oz bottles, 12 loose",
+    "img_path": "drink_images/sku_411523.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210610_myCoke.jpg",
+    "sku": "411524",
+    "upc": "811620020435",
+    "sku_line": "SKU:411524|UPC:811620020435",
+    "title_lines": [
+      "Fairlife Milk 2% Strawberry, 14",
+      "oz bottles, 12 loose"
+    ],
+    "raw_name": "Fairlife Milk 2% Strawberry, 14 oz bottles, 12 loose",
+    "img_path": "drink_images/sku_411524.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210610_myCoke.jpg",
+    "sku": "144892",
+    "upc": "041594215623",
+    "sku_line": "SKU:144892|UPC:041594215623",
+    "title_lines": [
+      "Cups 12oz Paper Trademark",
+      "2000 Count"
+    ],
+    "raw_name": "Cups 12oz Paper Trademark 2000 Count",
+    "img_path": "drink_images/sku_144892.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210610_myCoke.jpg",
+    "sku": "700015",
+    "upc": "071290010062",
+    "sku_line": "SKU:700015|UPC:071290010062",
+    "title_lines": [
+      "Cups12ozStyrofoamTB"
+    ],
+    "raw_name": "Cups12ozStyrofoamTB",
+    "img_path": "drink_images/sku_700015.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210610_myCoke.jpg",
+    "sku": "144893",
+    "upc": "149000804147",
+    "sku_line": "SKU:144893|UPC:149000804147",
+    "title_lines": [
+      "Cups 16oz Paper Trademark",
+      "1000 Count"
+    ],
+    "raw_name": "Cups 16oz Paper Trademark 1000 Count",
+    "img_path": "drink_images/sku_144893.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210610_myCoke.jpg",
+    "sku": "116965",
+    "upc": "049000804386",
+    "sku_line": "SKU:116965|UPC:049000804386",
+    "title_lines": [
+      "Cups 16oz Styrofoam"
+    ],
+    "raw_name": "Cups 16oz Styrofoam",
+    "img_path": "drink_images/sku_116965.png",
+    "crop_h": 426,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210746_myCoke.jpg",
+    "sku": "102748",
+    "upc": "049000023923",
+    "sku_line": "SKU:102748|UPC:049000023923",
+    "title_lines": [
+      "BarqsRootBeer,20ozbottles,",
+      "24 Loose"
+    ],
+    "raw_name": "BarqsRootBeer,20ozbottles, 24 Loose",
+    "img_path": "drink_images/sku_102748.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210746_myCoke.jpg",
+    "sku": "413936",
+    "upc": "049000561708",
+    "sku_line": "SKU:413936|UPC:049000561708",
+    "title_lines": [
+      "Coca-ColaCherryFloat,20oz",
+      "bottles,24Loose"
+    ],
+    "raw_name": "Coca-ColaCherryFloat,20oz bottles,24Loose",
+    "img_path": "drink_images/sku_413936.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210746_myCoke.jpg",
+    "sku": "102605",
+    "upc": "049000018011",
+    "sku_line": "SKU:102605|UPC:049000018011",
+    "title_lines": [
+      "Coca-ColaCherry,20oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "Coca-ColaCherry,20oz bottles,24loose",
+    "img_path": "drink_images/sku_102605.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210746_myCoke.jpg",
+    "sku": "116598",
+    "upc": "049000031171",
+    "sku_line": "SKU:116598|UPC:049000031171",
+    "title_lines": [
+      "Coca-ColaVanilla,20oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "Coca-ColaVanilla,20oz bottles,24loose",
+    "img_path": "drink_images/sku_116598.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210746_myCoke.jpg",
+    "sku": "102603",
+    "upc": "049000400441",
+    "sku_line": "SKU:102603|UPC:049000400441",
+    "title_lines": [
+      "Coca-Cola,20 ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "Coca-Cola,20 ozbottles,24 loose",
+    "img_path": "drink_images/sku_102603.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210746_myCoke.jpg",
+    "sku": "125522",
+    "upc": "049000147544",
+    "sku_line": "SKU:125522|UPC:049000147544",
+    "title_lines": [
+      "Coca-ColaCherryZero,20oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "Coca-ColaCherryZero,20oz bottles,24loose",
+    "img_path": "drink_images/sku_125522.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210746_myCoke.jpg",
+    "sku": "413937",
+    "upc": "049000561722",
+    "sku_line": "SKU:413937|UPC:049000561722",
+    "title_lines": [
+      "Coca-Cola Zero Sugar Cherry",
+      "Float,20ozbottles,24Loose"
+    ],
+    "raw_name": "Coca-Cola Zero Sugar Cherry Float,20ozbottles,24Loose",
+    "img_path": "drink_images/sku_413937.png",
+    "crop_h": 409,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "121751",
+    "upc": "049000140866",
+    "sku_line": "SKU:121751|UPC:049000140866",
+    "title_lines": [
+      "Coca-ColaZeroSugar,20oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "Coca-ColaZeroSugar,20oz bottles,24loose",
+    "img_path": "drink_images/sku_121751.png",
+    "crop_h": 484,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "125288",
+    "upc": "049000400274",
+    "sku_line": "SKU:125288|UPC:049000400274",
+    "title_lines": [
+      "AddtoCart",
+      "DietCherryCoke,20oz",
+      "bottles,24Lo0se"
+    ],
+    "raw_name": "AddtoCart DietCherryCoke,20oz bottles,24Lo0se",
+    "img_path": "drink_images/sku_125288.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "102604",
+    "upc": "049000400458",
+    "sku_line": "SKU:102604|UPC:049000400458",
+    "title_lines": [
+      "Diet Coke,20 ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "Diet Coke,20 ozbottles,24 loose",
+    "img_path": "drink_images/sku_102604.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "117808",
+    "upc": "078000083408",
+    "sku_line": "SKU:117808|UPC:078000083408",
+    "title_lines": [
+      "\u5341",
+      "DietDrPepper,20ozbottles,",
+      "24loose"
+    ],
+    "raw_name": "\u5341 DietDrPepper,20ozbottles, 24loose",
+    "img_path": "drink_images/sku_117808.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "413687",
+    "upc": "078000040630",
+    "sku_line": "SKU:413687UPC: 078000040630",
+    "title_lines": [
+      "DrPepper Blackberry,20oz",
+      "bottles,24Lo0se"
+    ],
+    "raw_name": "DrPepper Blackberry,20oz bottles,24Lo0se",
+    "img_path": "drink_images/sku_413687.png",
+    "crop_h": 430,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "157446",
+    "upc": "078000033519",
+    "sku_line": "SKU:157446|UPC:078000033519",
+    "title_lines": [
+      "DrPepperCreamSoda,20oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "DrPepperCreamSoda,20oz bottles,24loose",
+    "img_path": "drink_images/sku_157446.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "412090",
+    "upc": "078000037685",
+    "sku_line": "SKU:412090|UPC:078000037685",
+    "title_lines": [
+      "DrPepperStrawberries&",
+      "Cream,20ozbottles,24loose"
+    ],
+    "raw_name": "DrPepperStrawberries& Cream,20ozbottles,24loose",
+    "img_path": "drink_images/sku_412090.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "410676",
+    "upc": "078000035308",
+    "sku_line": "SKU:410676|UPC:078000035308",
+    "title_lines": [
+      "DrPepperZeroSugar,20oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "DrPepperZeroSugar,20oz bottles,24loose",
+    "img_path": "drink_images/sku_410676.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "117635",
+    "upc": "078000082401",
+    "sku_line": "SKU: 117635|UPC:078000082401",
+    "title_lines": [
+      "\u5341",
+      "DrPepper,20ozbottles\uff0c24",
+      "loose"
+    ],
+    "raw_name": "\u5341 DrPepper,20ozbottles\uff0c24 loose",
+    "img_path": "drink_images/sku_117635.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "152292",
+    "upc": "049000167733",
+    "sku_line": "SKU:152292|UPC:049000167733",
+    "title_lines": [
+      "Fanta Berry,20ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "Fanta Berry,20ozbottles,24 loose",
+    "img_path": "drink_images/sku_152292.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210809_myCoke.jpg",
+    "sku": "115313",
+    "upc": "049000026276",
+    "sku_line": "SKU:115313|UPC:049000026276",
+    "title_lines": [
+      "Fanta Grape,20ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "Fanta Grape,20ozbottles,24 loose",
+    "img_path": "drink_images/sku_115313.png",
+    "crop_h": 385,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "102656",
+    "upc": "049000416794",
+    "sku_line": "SKU:102656|UPC: 049000416794",
+    "title_lines": [
+      "MelloYello,20ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "MelloYello,20ozbottles,24 loose",
+    "img_path": "drink_images/sku_102656.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "146047",
+    "upc": "072979104171",
+    "sku_line": "SKU: 146047|UPC: 072979104171",
+    "title_lines": [
+      "SeagramsGingerAle,20oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "SeagramsGingerAle,20oz bottles,24loose",
+    "img_path": "drink_images/sku_146047.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "152897",
+    "upc": "049000172225",
+    "sku_line": "SKU:152897|UPC:049000172225",
+    "title_lines": [
+      "SpriteCherry.20ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "SpriteCherry.20ozbottles,24 loose",
+    "img_path": "drink_images/sku_152897.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "412670",
+    "upc": "049000555158",
+    "sku_line": "SKU: 412670|UPC: 049000555158",
+    "title_lines": [
+      "Sprite Chill,20 ozbottles,24",
+      "Loose"
+    ],
+    "raw_name": "Sprite Chill,20 ozbottles,24 Loose",
+    "img_path": "drink_images/sku_412670.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "151938",
+    "upc": "049000168693",
+    "sku_line": "SKU: 151938|UPC:049000168693",
+    "title_lines": [
+      "SpriteTropical Mix,20 oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "SpriteTropical Mix,20 oz bottles,24loose",
+    "img_path": "drink_images/sku_151938.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "119790",
+    "upc": "049000137194",
+    "sku_line": "SKU:119790|UPC: 049000137194",
+    "title_lines": [
+      "SpriteZeroSugar,20oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "SpriteZeroSugar,20oz bottles,24loose",
+    "img_path": "drink_images/sku_119790.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "101891",
+    "upc": "049000407648",
+    "sku_line": "SKU: 101891|UPC:049000407648",
+    "title_lines": [
+      "\u5341",
+      "Sprite,20ozbottles,24loose"
+    ],
+    "raw_name": "\u5341 Sprite,20ozbottles,24loose",
+    "img_path": "drink_images/sku_101891.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "116149",
+    "upc": "049000030129",
+    "sku_line": "SKU:116149|UPC:049000030129",
+    "title_lines": [
+      "Barqs RootBeer,12ozcans,",
+      "12 pk,2 ct"
+    ],
+    "raw_name": "Barqs RootBeer,12ozcans, 12 pk,2 ct",
+    "img_path": "drink_images/sku_116149.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "116305",
+    "upc": "049000031034",
+    "sku_line": "SKU:116305|UPC:049000031034",
+    "title_lines": [
+      "Coca-Cola Cherry,12ozcans,",
+      "12 pk,2 ct"
+    ],
+    "raw_name": "Coca-Cola Cherry,12ozcans, 12 pk,2 ct",
+    "img_path": "drink_images/sku_116305.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "159625",
+    "upc": "049000028904",
+    "sku_line": "SKU:159625|UPC:049000028904",
+    "title_lines": [
+      "Coca-Cola,12ozcans\uff0c12pk",
+      "2ct"
+    ],
+    "raw_name": "Coca-Cola,12ozcans\uff0c12pk 2ct",
+    "img_path": "drink_images/sku_159625.png",
+    "crop_h": 493,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210851_myCoke.jpg",
+    "sku": "115583",
+    "upc": "049000028904",
+    "sku_line": "SKU:115583|UPC:049000028904",
+    "title_lines": [
+      "Coca-Cola,12ozcans,12pk",
+      "2ct"
+    ],
+    "raw_name": "Coca-Cola,12ozcans,12pk 2ct",
+    "img_path": "drink_images/sku_115583.png",
+    "crop_h": 417,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "115583",
+    "upc": "049000028904",
+    "sku_line": "SKU:115583|UPC:049000028904",
+    "title_lines": [
+      "Coca-Cola,12ozcans\uff0c12pk",
+      "2ct"
+    ],
+    "raw_name": "Coca-Cola,12ozcans\uff0c12pk 2ct",
+    "img_path": "drink_images/sku_115583.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "125491",
+    "upc": "049000047516",
+    "sku_line": "SKU:125491|UPC:049000047516",
+    "title_lines": [
+      "Coca-ColaCherryZero,12oz",
+      "cans,12pk,2 ct"
+    ],
+    "raw_name": "Coca-ColaCherryZero,12oz cans,12pk,2 ct",
+    "img_path": "drink_images/sku_125491.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "159624",
+    "upc": "049000142556",
+    "sku_line": "SKU:159624|UPC:049000142556",
+    "title_lines": [
+      "Coca-ColaZeroSugar,12oz",
+      "cans,12pk,2ct"
+    ],
+    "raw_name": "Coca-ColaZeroSugar,12oz cans,12pk,2ct",
+    "img_path": "drink_images/sku_159624.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "121750",
+    "upc": "049000142556",
+    "sku_line": "SKU:121750|UPC:049000142556",
+    "title_lines": [
+      "\u5341",
+      "Coca-ColaZeroSugar,12oz",
+      "cans\uff0c12pk,2ct"
+    ],
+    "raw_name": "\u5341 Coca-ColaZeroSugar,12oz cans\uff0c12pk,2ct",
+    "img_path": "drink_images/sku_121750.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "115584",
+    "upc": "049000028911",
+    "sku_line": "SKU:115584|UPC:049000028911",
+    "title_lines": [
+      "DietCoke,12ozcans,12pk,2",
+      "ct"
+    ],
+    "raw_name": "DietCoke,12ozcans,12pk,2 ct",
+    "img_path": "drink_images/sku_115584.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "117604",
+    "upc": "078000804454",
+    "sku_line": "SKU: 117604|UPC:078000804454",
+    "title_lines": [
+      "DietDrPepper,12ozcans,12",
+      "pk,2ct"
+    ],
+    "raw_name": "DietDrPepper,12ozcans,12 pk,2ct",
+    "img_path": "drink_images/sku_117604.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "410659",
+    "upc": "078000035261",
+    "sku_line": "SKU:410659UPC:078000035261",
+    "title_lines": [
+      "DrPepperZeroSugar,12oz",
+      "cans,12pk,2ct"
+    ],
+    "raw_name": "DrPepperZeroSugar,12oz cans,12pk,2ct",
+    "img_path": "drink_images/sku_410659.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "117603",
+    "upc": "078000803990",
+    "sku_line": "SKU:117603|UPC:078000803990",
+    "title_lines": [
+      "\u4e2d",
+      "DrPepper\uff0c12ozcans\uff0c12pk,2",
+      "ct"
+    ],
+    "raw_name": "\u4e2d DrPepper\uff0c12ozcans\uff0c12pk,2 ct",
+    "img_path": "drink_images/sku_117603.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "116470",
+    "upc": "049000030747",
+    "sku_line": "SKU:116470UPC:049000030747",
+    "title_lines": [
+      "Fanta Grape,12ozcans,12",
+      "pk,2ct"
+    ],
+    "raw_name": "Fanta Grape,12ozcans,12 pk,2ct",
+    "img_path": "drink_images/sku_116470.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "116151",
+    "upc": "049000030730",
+    "sku_line": "SKU:116151|UPC:049000030730",
+    "title_lines": [
+      "Fanta Orange,12ozcans\uff0c12",
+      "pk,2ct"
+    ],
+    "raw_name": "Fanta Orange,12ozcans\uff0c12 pk,2ct",
+    "img_path": "drink_images/sku_116151.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210911_myCoke.jpg",
+    "sku": "116150",
+    "upc": "049000028935",
+    "sku_line": "SKU:116150|UPC:049000028935",
+    "title_lines": [
+      "MelloYello,12ozcans,12pk\uff0c",
+      "2ct"
+    ],
+    "raw_name": "MelloYello,12ozcans,12pk\uff0c 2ct",
+    "img_path": "drink_images/sku_116150.png",
+    "crop_h": 367,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210932_myCoke.jpg",
+    "sku": "146125",
+    "upc": "072979104164",
+    "sku_line": "SKU:146125|UPC:072979104164",
+    "title_lines": [
+      "SeagramsGingerAle,12oz",
+      "cans, 12 pk, 2 ct"
+    ],
+    "raw_name": "SeagramsGingerAle,12oz cans, 12 pk, 2 ct",
+    "img_path": "drink_images/sku_146125.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210932_myCoke.jpg",
+    "sku": "119346",
+    "upc": "072979003344",
+    "sku_line": "SKU:119346|UPC:072979003344",
+    "title_lines": [
+      "Seagrams Zero Sugar Ginger",
+      "Ale,12 oz cans,12 pk,2 ct"
+    ],
+    "raw_name": "Seagrams Zero Sugar Ginger Ale,12 oz cans,12 pk,2 ct",
+    "img_path": "drink_images/sku_119346.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210932_myCoke.jpg",
+    "sku": "119791",
+    "upc": "049000137118",
+    "sku_line": "SKU:119791\u4e28UPC:049000137118",
+    "title_lines": [
+      "Sprite Zero Sugar, 12 oz cans,",
+      "12 pk, 2 ct"
+    ],
+    "raw_name": "Sprite Zero Sugar, 12 oz cans, 12 pk, 2 ct",
+    "img_path": "drink_images/sku_119791.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210932_myCoke.jpg",
+    "sku": "115586",
+    "upc": "049000028928",
+    "sku_line": "SKU:115586|UPC:049000028928",
+    "title_lines": [
+      "Sprite, 12 oz cans, 12 pk, 2 ct"
+    ],
+    "raw_name": "Sprite, 12 oz cans, 12 pk, 2 ct",
+    "img_path": "drink_images/sku_115586.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210932_myCoke.jpg",
+    "sku": "133115",
+    "upc": "049000413854",
+    "sku_line": "SKU:133115|UPC:049000413854",
+    "title_lines": [
+      "Coca-Cola,12 oz cans,15 pk,",
+      "2 ct"
+    ],
+    "raw_name": "Coca-Cola,12 oz cans,15 pk, 2 ct",
+    "img_path": "drink_images/sku_133115.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210932_myCoke.jpg",
+    "sku": "133116",
+    "upc": "049000413977",
+    "sku_line": "SKU:133116|UPC:049000413977",
+    "title_lines": [
+      "Diet Coke, 12 oz cans, 15 pk, 2",
+      "ct"
+    ],
+    "raw_name": "Diet Coke, 12 oz cans, 15 pk, 2 ct",
+    "img_path": "drink_images/sku_133116.png",
+    "crop_h": 363,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210952_myCoke.jpg",
+    "sku": "156697",
+    "upc": "078000082173",
+    "sku_line": "SKU:156697|UPC:078000082173",
+    "title_lines": [
+      "Dr Pepper, 12 oz cans, 15 pk, 2",
+      "ct"
+    ],
+    "raw_name": "Dr Pepper, 12 oz cans, 15 pk, 2 ct",
+    "img_path": "drink_images/sku_156697.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210952_myCoke.jpg",
+    "sku": "155070",
+    "upc": "049000173932",
+    "sku_line": "SKU:155070|UPC:049000173932",
+    "title_lines": [
+      "Fanta Orange,12 oz cans,15",
+      "pk, 2 ct"
+    ],
+    "raw_name": "Fanta Orange,12 oz cans,15 pk, 2 ct",
+    "img_path": "drink_images/sku_155070.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210952_myCoke.jpg",
+    "sku": "153347",
+    "upc": "049000173314",
+    "sku_line": "SKU:153347|UPC:049000173314",
+    "title_lines": [
+      "Mello Yello,12 oz cans,15 pk,",
+      "2 ct"
+    ],
+    "raw_name": "Mello Yello,12 oz cans,15 pk, 2 ct",
+    "img_path": "drink_images/sku_153347.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210952_myCoke.jpg",
+    "sku": "152221",
+    "upc": "049000413984",
+    "sku_line": "SKU:152221\u4e28UPC:049000413984",
+    "title_lines": [
+      "Sprite, 12 oz cans, 15 pk, 2 ct"
+    ],
+    "raw_name": "Sprite, 12 oz cans, 15 pk, 2 ct",
+    "img_path": "drink_images/sku_152221.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210952_myCoke.jpg",
+    "sku": "145835",
+    "upc": "049000160420",
+    "sku_line": "SKU:145835|UPC:049000160420",
+    "title_lines": [
+      "Coca-Cola Cherry, 16 oz cans,",
+      "24loose"
+    ],
+    "raw_name": "Coca-Cola Cherry, 16 oz cans, 24loose",
+    "img_path": "drink_images/sku_145835.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_210952_myCoke.jpg",
+    "sku": "146858",
+    "upc": "049000153415",
+    "sku_line": "SKU:146858|UPC:049000153415",
+    "title_lines": [
+      "Coca-Cola, 16 oz cans, 24",
+      "loose"
+    ],
+    "raw_name": "Coca-Cola, 16 oz cans, 24 loose",
+    "img_path": "drink_images/sku_146858.png",
+    "crop_h": 370,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211011_myCoke.jpg",
+    "sku": "146980",
+    "upc": "049000153408",
+    "sku_line": "SKU:146980|UPC:049000153408",
+    "title_lines": [
+      "Coca-Cola Zero Sugar, 16 oz",
+      "cans, 24 loose"
+    ],
+    "raw_name": "Coca-Cola Zero Sugar, 16 oz cans, 24 loose",
+    "img_path": "drink_images/sku_146980.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211011_myCoke.jpg",
+    "sku": "145277",
+    "upc": "049000153422",
+    "sku_line": "SKU:145277|UPC:049000153422",
+    "title_lines": [
+      "Diet Coke, 16 oz cans, 24",
+      "loose"
+    ],
+    "raw_name": "Diet Coke, 16 oz cans, 24 loose",
+    "img_path": "drink_images/sku_145277.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211011_myCoke.jpg",
+    "sku": "145278",
+    "upc": "078000811803",
+    "sku_line": "SKU:145278|UPC:078000811803",
+    "title_lines": [
+      "Dr Pepper, 16 oz cans, 24",
+      "loose"
+    ],
+    "raw_name": "Dr Pepper, 16 oz cans, 24 loose",
+    "img_path": "drink_images/sku_145278.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211011_myCoke.jpg",
+    "sku": "146336",
+    "upc": "049000160222",
+    "sku_line": "SKU:146336\u4e28UPC:049000160222",
+    "title_lines": [
+      "Mello Yello, 16 oz cans, 24",
+      "loose"
+    ],
+    "raw_name": "Mello Yello, 16 oz cans, 24 loose",
+    "img_path": "drink_images/sku_146336.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211011_myCoke.jpg",
+    "sku": "144089",
+    "upc": "049000153439",
+    "sku_line": "SKU:144089|UPC:049000153439",
+    "title_lines": [
+      "Sprite, 16 oz cans, 24 loose"
+    ],
+    "raw_name": "Sprite, 16 oz cans, 24 loose",
+    "img_path": "drink_images/sku_144089.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211011_myCoke.jpg",
+    "sku": "104235",
+    "upc": "049000986600",
+    "sku_line": "SKU:104235|UPC:049000986600",
+    "title_lines": [
+      "Barqs Root Beer, 2.5 gal",
+      "bag-in-box"
+    ],
+    "raw_name": "Barqs Root Beer, 2.5 gal bag-in-box",
+    "img_path": "drink_images/sku_104235.png",
+    "crop_h": 346,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "156157",
+    "upc": "049000406313",
+    "sku_line": "SKU:156157|UPC:049000406313",
+    "title_lines": [
+      "Coca-ColaCherry,24oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "Coca-ColaCherry,24oz bottles,24loose",
+    "img_path": "drink_images/sku_156157.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "132218",
+    "upc": "049000407891",
+    "sku_line": "SKU:132218|UPC:049000407891",
+    "title_lines": [
+      "Coca-Cola,24ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "Coca-Cola,24ozbottles,24 loose",
+    "img_path": "drink_images/sku_132218.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "132219",
+    "upc": "049000145243",
+    "sku_line": "SKU:132219|UPC:049000145243",
+    "title_lines": [
+      "\u5341",
+      "Coca-ColaZeroSugar,24oz",
+      "bottles,24loose"
+    ],
+    "raw_name": "\u5341 Coca-ColaZeroSugar,24oz bottles,24loose",
+    "img_path": "drink_images/sku_132219.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "132220",
+    "upc": "049000407976",
+    "sku_line": "SKU:132220|UPC: 049000407976",
+    "title_lines": [
+      "DietCoke,24ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "DietCoke,24ozbottles,24 loose",
+    "img_path": "drink_images/sku_132220.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "151095",
+    "upc": "078000805611",
+    "sku_line": "SKU:151095|UPC:078000805611",
+    "title_lines": [
+      "AddtoCart",
+      "Dr Pepper,24ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "AddtoCart Dr Pepper,24ozbottles,24 loose",
+    "img_path": "drink_images/sku_151095.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "144484",
+    "upc": "049000154665",
+    "sku_line": "SKU:144484|UPC: 049000154665",
+    "title_lines": [
+      "\u5341",
+      "MelloYello,24ozbottles,24",
+      "loose"
+    ],
+    "raw_name": "\u5341 MelloYello,24ozbottles,24 loose",
+    "img_path": "drink_images/sku_144484.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "132221",
+    "upc": "049000407792",
+    "sku_line": "SKU: 132221 | UPC: 049000407792",
+    "title_lines": [
+      "Sprite,24ozbottles,24loose"
+    ],
+    "raw_name": "Sprite,24ozbottles,24loose",
+    "img_path": "drink_images/sku_132221.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "132529",
+    "upc": "049000150162",
+    "sku_line": "SKU:132529|UPC:049000150162",
+    "title_lines": [
+      "Coca-Cola Cherry,2Itrbottles,",
+      "8loose"
+    ],
+    "raw_name": "Coca-Cola Cherry,2Itrbottles, 8loose",
+    "img_path": "drink_images/sku_132529.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "132530",
+    "upc": "049000150100",
+    "sku_line": "SKU:132530|UPC:049000150100",
+    "title_lines": [
+      "\u5341",
+      "Coca-Cola,2Itrbottles,8",
+      "loose"
+    ],
+    "raw_name": "\u5341 Coca-Cola,2Itrbottles,8 loose",
+    "img_path": "drink_images/sku_132530.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "132531",
+    "upc": "049000150148",
+    "sku_line": "SKU:132531|UPC:049000150148",
+    "title_lines": [
+      "\u5341",
+      "Coca-ColaZeroSugar,2Itr",
+      "bottles,8loose"
+    ],
+    "raw_name": "\u5341 Coca-ColaZeroSugar,2Itr bottles,8loose",
+    "img_path": "drink_images/sku_132531.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211036_myCoke.jpg",
+    "sku": "132532",
+    "upc": "049000150117",
+    "sku_line": "SKU:132532|UPC:049000150117",
+    "title_lines": [
+      "DietCoke\uff0c2Itrbottles,8loose"
+    ],
+    "raw_name": "DietCoke\uff0c2Itrbottles,8loose",
+    "img_path": "drink_images/sku_132532.png",
+    "crop_h": 465,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211054_myCoke.jpg",
+    "sku": "132606",
+    "upc": "078000803143",
+    "sku_line": "SKU:132606|UPC:078000803143",
+    "title_lines": [
+      "Dr Pepper, 2 Itr bottles, 8 loose"
+    ],
+    "raw_name": "Dr Pepper, 2 Itr bottles, 8 loose",
+    "img_path": "drink_images/sku_132606.png",
+    "crop_h": 438,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211054_myCoke.jpg",
+    "sku": "132543",
+    "upc": "049000150254",
+    "sku_line": "SKU:132543|UPC:049000150254",
+    "title_lines": [
+      "Fanta Orange, 2 Itr bottles, 8",
+      "loose"
+    ],
+    "raw_name": "Fanta Orange, 2 Itr bottles, 8 loose",
+    "img_path": "drink_images/sku_132543.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211054_myCoke.jpg",
+    "sku": "134318",
+    "upc": "049000150261",
+    "sku_line": "SKU:134318\u4e28UPC:049000150261",
+    "title_lines": [
+      "Fanta Pineapple, 2 Itr bottles,",
+      "8 loose"
+    ],
+    "raw_name": "Fanta Pineapple, 2 Itr bottles, 8 loose",
+    "img_path": "drink_images/sku_134318.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211054_myCoke.jpg",
+    "sku": "132544",
+    "upc": "049000150278",
+    "sku_line": "SKU:132544|UPC:049000150278",
+    "title_lines": [
+      "Fanta Strawberry, 2 Itr bottles,",
+      "8 loose"
+    ],
+    "raw_name": "Fanta Strawberry, 2 Itr bottles, 8 loose",
+    "img_path": "drink_images/sku_132544.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211054_myCoke.jpg",
+    "sku": "132546",
+    "upc": "049000150292",
+    "sku_line": "SKU:132546|UPC:049000150292",
+    "title_lines": [
+      "Mello Yello, 2 Itr bottles, 8",
+      "loose"
+    ],
+    "raw_name": "Mello Yello, 2 Itr bottles, 8 loose",
+    "img_path": "drink_images/sku_132546.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211054_myCoke.jpg",
+    "sku": "146042",
+    "upc": "072979104188",
+    "sku_line": "SKU:146042|UPC:072979104188",
+    "title_lines": [
+      "Seagrams Ginger Ale, 2 Itr",
+      "bottles, 8 loose"
+    ],
+    "raw_name": "Seagrams Ginger Ale, 2 Itr bottles, 8 loose",
+    "img_path": "drink_images/sku_146042.png",
+    "crop_h": 368,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211109_myCoke.jpg",
+    "sku": "146042",
+    "upc": "072979104188",
+    "sku_line": "SKU:146042|UPC:072979104188",
+    "title_lines": [
+      "SeagramsGingerAle,2Itr",
+      "bottles,8loose"
+    ],
+    "raw_name": "SeagramsGingerAle,2Itr bottles,8loose",
+    "img_path": "drink_images/sku_146042.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211109_myCoke.jpg",
+    "sku": "132540",
+    "upc": "049000150155",
+    "sku_line": "SKU:132540|UPC:049000150155",
+    "title_lines": [
+      "Sprite,2Itrbottles,8loose"
+    ],
+    "raw_name": "Sprite,2Itrbottles,8loose",
+    "img_path": "drink_images/sku_132540.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211109_myCoke.jpg",
+    "sku": "122360",
+    "upc": "049000104639",
+    "sku_line": "SKU:122360|UPC:049000104639",
+    "title_lines": [
+      "Coca-ColaMexico,355ml",
+      "bottles,24Loose"
+    ],
+    "raw_name": "Coca-ColaMexico,355ml bottles,24Loose",
+    "img_path": "drink_images/sku_122360.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211109_myCoke.jpg",
+    "sku": "126582",
+    "upc": "049000147841",
+    "sku_line": "SKU:126582|UPC:049000147841",
+    "title_lines": [
+      "Fanta0rangeMexico,355ml",
+      "bottles,24Lo0se"
+    ],
+    "raw_name": "Fanta0rangeMexico,355ml bottles,24Lo0se",
+    "img_path": "drink_images/sku_126582.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211109_myCoke.jpg",
+    "sku": "126583",
+    "upc": "049000147827",
+    "sku_line": "SKU:126583|UPC:049000147827",
+    "title_lines": [
+      "SpriteMexico,355mlbottles,",
+      "24loose"
+    ],
+    "raw_name": "SpriteMexico,355mlbottles, 24loose",
+    "img_path": "drink_images/sku_126583.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211109_myCoke.jpg",
+    "sku": "412322",
+    "upc": "049000552744",
+    "sku_line": "SKU:412322|UPC:049000552744",
+    "title_lines": [
+      "MelloYello/MelloYelloZero",
+      "MdBeverageMix,36ozbag-i..."
+    ],
+    "raw_name": "MelloYello/MelloYelloZero MdBeverageMix,36ozbag-i...",
+    "img_path": "drink_images/sku_412322.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211109_myCoke.jpg",
+    "sku": "412321",
+    "upc": "072979180441",
+    "sku_line": "SKU:412321|UPC:072979180441",
+    "title_lines": [
+      "SeagramsGingerale/",
+      "ZeroSugarGingeraleMdBev..."
+    ],
+    "raw_name": "SeagramsGingerale/ ZeroSugarGingeraleMdBev...",
+    "img_path": "drink_images/sku_412321.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211109_myCoke.jpg",
+    "sku": "151215",
+    "upc": "049000995190",
+    "sku_line": "SKU:151215|UPC:049000995190",
+    "title_lines": [
+      "Barqs/DietBarqsMdBeverage",
+      "Mix,46ouncebag-in-box"
+    ],
+    "raw_name": "Barqs/DietBarqsMdBeverage Mix,46ouncebag-in-box",
+    "img_path": "drink_images/sku_151215.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211109_myCoke.jpg",
+    "sku": "151208",
+    "upc": "049000995169",
+    "sku_line": "SKU:151208|UPC:049000995169",
+    "title_lines": [
+      "Coca-ColaMdBeverageMix,",
+      "46ouncebag-in-box"
+    ],
+    "raw_name": "Coca-ColaMdBeverageMix, 46ouncebag-in-box",
+    "img_path": "drink_images/sku_151208.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211151_myCoke.jpg",
+    "sku": "152889",
+    "upc": "049000172300",
+    "sku_line": "SKU:152889|UPC:049000172300",
+    "title_lines": [
+      "Coca-Cola Cherry, 7.5 oz cans,",
+      "6 pk, 4 ct"
+    ],
+    "raw_name": "Coca-Cola Cherry, 7.5 oz cans, 6 pk, 4 ct",
+    "img_path": "drink_images/sku_152889.png",
+    "crop_h": 448,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211151_myCoke.jpg",
+    "sku": "151773",
+    "upc": "049000161014",
+    "sku_line": "SKU:151773|UPC:049000161014",
+    "title_lines": [
+      "Coca-Cola, 7.5 oz cans,6 pk, 4",
+      "ct"
+    ],
+    "raw_name": "Coca-Cola, 7.5 oz cans,6 pk, 4 ct",
+    "img_path": "drink_images/sku_151773.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211151_myCoke.jpg",
+    "sku": "151774",
+    "upc": "049000161045",
+    "sku_line": "SKU:151774|UPC:049000161045",
+    "title_lines": [
+      "Coca-Cola Zero Sugar, 7.5 oz",
+      "cans, 6 pk, 4 ct"
+    ],
+    "raw_name": "Coca-Cola Zero Sugar, 7.5 oz cans, 6 pk, 4 ct",
+    "img_path": "drink_images/sku_151774.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211151_myCoke.jpg",
+    "sku": "151777",
+    "upc": "049000161038",
+    "sku_line": "SKU:151777|UPC:049000161038",
+    "title_lines": [
+      "Fanta Orange, 7.5 oz cans, 6",
+      "pk, 4 ct"
+    ],
+    "raw_name": "Fanta Orange, 7.5 oz cans, 6 pk, 4 ct",
+    "img_path": "drink_images/sku_151777.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211151_myCoke.jpg",
+    "sku": "151776",
+    "upc": "049000161069",
+    "sku_line": "SKU:151776|UPC:049000161069",
+    "title_lines": [
+      "Sprite, 7.5 oz cans, 6 pk, 4 ct"
+    ],
+    "raw_name": "Sprite, 7.5 oz cans, 6 pk, 4 ct",
+    "img_path": "drink_images/sku_151776.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211151_myCoke.jpg",
+    "sku": "413914",
+    "upc": "049000561555",
+    "sku_line": "SKU:413914|UPC:049000561555",
+    "title_lines": [
+      "Coca-Cola, 8 oz bottles, 6 pk,",
+      "4 ct"
+    ],
+    "raw_name": "Coca-Cola, 8 oz bottles, 6 pk, 4 ct",
+    "img_path": "drink_images/sku_413914.png",
+    "crop_h": 413,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211207_myCoke.jpg",
+    "sku": "129137",
+    "upc": "049000149975",
+    "sku_line": "SKU:129137|UPC:049000149975",
+    "title_lines": [
+      "Coca-Cola Zero Sugar, 8 oz",
+      "bottles, 6 pk, 4 ct"
+    ],
+    "raw_name": "Coca-Cola Zero Sugar, 8 oz bottles, 6 pk, 4 ct",
+    "img_path": "drink_images/sku_129137.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211207_myCoke.jpg",
+    "sku": "413943",
+    "upc": "049000561586",
+    "sku_line": "SKU:413943|UPC:049000561586",
+    "title_lines": [
+      "Sprite,8ozbottles,6pk,4ct"
+    ],
+    "raw_name": "Sprite,8ozbottles,6pk,4ct",
+    "img_path": "drink_images/sku_413943.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211207_myCoke.jpg",
+    "sku": "414169",
+    "upc": "815154027458",
+    "sku_line": "SKU:414169|UPC:815154027458",
+    "title_lines": [
+      "Storm Zero Sugar Guava",
+      "Strawberry, 12 oz cans, 12 Lo..."
+    ],
+    "raw_name": "Storm Zero Sugar Guava Strawberry, 12 oz cans, 12 Lo...",
+    "img_path": "drink_images/sku_414169.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211207_myCoke.jpg",
+    "sku": "414168",
+    "upc": "815154027519",
+    "sku_line": "SKU:414168|UPC:815154027519",
+    "title_lines": [
+      "Storm Zero Sugar Harvest",
+      "Grape,12 oz cans, 12 Loose"
+    ],
+    "raw_name": "Storm Zero Sugar Harvest Grape,12 oz cans, 12 Loose",
+    "img_path": "drink_images/sku_414168.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211207_myCoke.jpg",
+    "sku": "414167",
+    "upc": "815154027571",
+    "sku_line": "SKU:414167|UPC:815154027571",
+    "title_lines": [
+      "Storm Zero Sugar Tropical, 12",
+      "oz cans, 12 Loose"
+    ],
+    "raw_name": "Storm Zero Sugar Tropical, 12 oz cans, 12 Loose",
+    "img_path": "drink_images/sku_414167.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211207_myCoke.jpg",
+    "sku": "414166",
+    "upc": "815154027489",
+    "sku_line": "SKU:414166|UPC:815154027489",
+    "title_lines": [
+      "Storm Zero Sugar Valencia",
+      "Orange, 12 oz cans, 12 Loose"
+    ],
+    "raw_name": "Storm Zero Sugar Valencia Orange, 12 oz cans, 12 Loose",
+    "img_path": "drink_images/sku_414166.png",
+    "crop_h": 363,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211224_myCoke.jpg",
+    "sku": "414166",
+    "upc": "815154027489",
+    "sku_line": "SKU:414166|UPC:815154027489",
+    "title_lines": [
+      "Storm Zero Sugar Valencia",
+      "Orange, 12 oz cans, 12 Loose"
+    ],
+    "raw_name": "Storm Zero Sugar Valencia Orange, 12 oz cans, 12 Loose",
+    "img_path": "drink_images/sku_414166.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211224_myCoke.jpg",
+    "sku": "412031",
+    "upc": "070847891840",
+    "sku_line": "SKU:412031|UPC:070847891840",
+    "title_lines": [
+      "Monster Energy Ultra",
+      "Strawberry Dreams Zero Sug..."
+    ],
+    "raw_name": "Monster Energy Ultra Strawberry Dreams Zero Sug...",
+    "img_path": "drink_images/sku_412031.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211224_myCoke.jpg",
+    "sku": "412378",
+    "upc": "070847895305",
+    "sku_line": "SKU:412378|UPC:070847895305",
+    "title_lines": [
+      "Monster Energy Ultra Sunrise,",
+      "12 oz cans, 24 loose"
+    ],
+    "raw_name": "Monster Energy Ultra Sunrise, 12 oz cans, 24 loose",
+    "img_path": "drink_images/sku_412378.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211224_myCoke.jpg",
+    "sku": "410652",
+    "upc": "070847037552",
+    "sku_line": "SKU:410652\u4e28UPC:070847037552",
+    "title_lines": [
+      "Monster Energy Ultra Zero",
+      "Sugar, 12 oz cans, 24 loose"
+    ],
+    "raw_name": "Monster Energy Ultra Zero Sugar, 12 oz cans, 24 loose",
+    "img_path": "drink_images/sku_410652.png",
+    "crop_h": 402,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "410652",
+    "upc": "070847037552",
+    "sku_line": "SKU:410652|UPC:070847037552",
+    "title_lines": [
+      "MonsterEnergyUltraZero",
+      "Sugar,12ozcans,24lo0se"
+    ],
+    "raw_name": "MonsterEnergyUltraZero Sugar,12ozcans,24lo0se",
+    "img_path": "drink_images/sku_410652.png",
+    "crop_h": 491,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "410660",
+    "upc": "070847000310",
+    "sku_line": "SKU:410660UPC:070847000310",
+    "title_lines": [
+      "MonsterEnergy,12ozcans,",
+      "24loose"
+    ],
+    "raw_name": "MonsterEnergy,12ozcans, 24loose",
+    "img_path": "drink_images/sku_410660.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "412588",
+    "upc": "070847896685",
+    "sku_line": "SKU:412588|UPC:070847896685",
+    "title_lines": [
+      "MonsterRehab Green Tea,",
+      "15.5ozcans,24loose"
+    ],
+    "raw_name": "MonsterRehab Green Tea, 15.5ozcans,24loose",
+    "img_path": "drink_images/sku_412588.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "150885",
+    "upc": "070847021537",
+    "sku_line": "SKU:150885|UPC: 070847021537",
+    "title_lines": [
+      "MonsterRehabTea+Peach,",
+      "15.5ozcans,24oose"
+    ],
+    "raw_name": "MonsterRehabTea+Peach, 15.5ozcans,24oose",
+    "img_path": "drink_images/sku_150885.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "138036",
+    "upc": "070847003236",
+    "sku_line": "SKU:138036|UPC:070847003236",
+    "title_lines": [
+      "MonsterRehab",
+      "Tea+Lemonade,15.5ozcans..."
+    ],
+    "raw_name": "MonsterRehab Tea+Lemonade,15.5ozcans...",
+    "img_path": "drink_images/sku_138036.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "412182",
+    "upc": "070847894094",
+    "sku_line": "SKU: 412182UPC: 070847894094",
+    "title_lines": [
+      "MonsterRehabWildBerryTea,",
+      "15.5ozcans,24loose"
+    ],
+    "raw_name": "MonsterRehabWildBerryTea, 15.5ozcans,24loose",
+    "img_path": "drink_images/sku_412182.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "412030",
+    "upc": "070847892007",
+    "sku_line": "SKU:412030|UPC: 070847892007",
+    "title_lines": [
+      "JavaMonsterCafeLatte,15oz",
+      "cans,12loose"
+    ],
+    "raw_name": "JavaMonsterCafeLatte,15oz cans,12loose",
+    "img_path": "drink_images/sku_412030.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "134923",
+    "upc": "070847831013",
+    "sku_line": "SKU:134923|UPC:070847831013",
+    "title_lines": [
+      "\u5341",
+      "Java MonsterIrish,15oz",
+      "cans,12loose"
+    ],
+    "raw_name": "\u5341 Java MonsterIrish,15oz cans,12loose",
+    "img_path": "drink_images/sku_134923.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "134929",
+    "upc": "070847831068",
+    "sku_line": "SKU:134929|UPC:070847831068",
+    "title_lines": [
+      "JavaMonsterLocaMoca,15",
+      "ozcans,12loose"
+    ],
+    "raw_name": "JavaMonsterLocaMoca,15 ozcans,12loose",
+    "img_path": "drink_images/sku_134929.png",
+    "crop_h": 487,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "134926",
+    "upc": "070847831037",
+    "sku_line": "SKU: 134926|UPC: 070847831037",
+    "title_lines": [
+      "JavaMonsterMeanBean,15",
+      "ozcans,12loose"
+    ],
+    "raw_name": "JavaMonsterMeanBean,15 ozcans,12loose",
+    "img_path": "drink_images/sku_134926.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211239_myCoke.jpg",
+    "sku": "151811",
+    "upc": "070847024033",
+    "sku_line": "SKU:151811|UPC:070847024033",
+    "title_lines": [
+      "JavaMonsterSaltedCaramel,",
+      "15ozcans,12loose"
+    ],
+    "raw_name": "JavaMonsterSaltedCaramel, 15ozcans,12loose",
+    "img_path": "drink_images/sku_151811.png",
+    "crop_h": 376,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211303_myCoke.jpg",
+    "sku": "413306",
+    "upc": "070847898443",
+    "sku_line": "SKU:413306|UPC:070847898443",
+    "title_lines": [
+      "Monster Killer Brew Loca",
+      "Moca, 15 oz cans, 12 Loose"
+    ],
+    "raw_name": "Monster Killer Brew Loca Moca, 15 oz cans, 12 Loose",
+    "img_path": "drink_images/sku_413306.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211303_myCoke.jpg",
+    "sku": "413346",
+    "upc": "070847898412",
+    "sku_line": "SKU:413346|UPC:070847898412",
+    "title_lines": [
+      "\u00d7",
+      "Monster Killer Brew Mean",
+      "Bean, 15 oz cans, 12 Loose"
+    ],
+    "raw_name": "\u00d7 Monster Killer Brew Mean Bean, 15 oz cans, 12 Loose",
+    "img_path": "drink_images/sku_413346.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211303_myCoke.jpg",
+    "sku": "414273",
+    "upc": "610764018007",
+    "sku_line": "SKU:414273|UPC:610764018007",
+    "title_lines": [
+      "Bang Energy American Berry,",
+      "16 oz cans, 12 Loose"
+    ],
+    "raw_name": "Bang Energy American Berry, 16 oz cans, 12 Loose",
+    "img_path": "drink_images/sku_414273.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211303_myCoke.jpg",
+    "sku": "413647",
+    "upc": "610764017857",
+    "sku_line": "SKU:413647|UPC:610764017857",
+    "title_lines": [
+      "Bang Energy Any Means",
+      "Orange, 16 oz cans, 12 Loose"
+    ],
+    "raw_name": "Bang Energy Any Means Orange, 16 oz cans, 12 Loose",
+    "img_path": "drink_images/sku_413647.png",
+    "crop_h": 401,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211336_myCoke.jpg",
+    "sku": "414273",
+    "upc": "610764018007",
+    "sku_line": "SKU:414273|UPC:610764018007",
+    "title_lines": [
+      "Bang Energy American Berry,",
+      "16 ozcans,12Loose"
+    ],
+    "raw_name": "Bang Energy American Berry, 16 ozcans,12Loose",
+    "img_path": "drink_images/sku_414273.png",
+    "crop_h": 446,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211336_myCoke.jpg",
+    "sku": "413647",
+    "upc": "610764017857",
+    "sku_line": "SKU:413647|UPC:610764017857",
+    "title_lines": [
+      "Bang Energy Any Means",
+      "Orange, 16 oz cans,12 Loose"
+    ],
+    "raw_name": "Bang Energy Any Means Orange, 16 oz cans,12 Loose",
+    "img_path": "drink_images/sku_413647.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211336_myCoke.jpg",
+    "sku": "412548",
+    "upc": "610764863782",
+    "sku_line": "SKU:412548|UPC:610764863782",
+    "title_lines": [
+      "Bang Energy Black Cherry",
+      "Vanilla,16ozcans,12loose"
+    ],
+    "raw_name": "Bang Energy Black Cherry Vanilla,16ozcans,12loose",
+    "img_path": "drink_images/sku_412548.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211336_myCoke.jpg",
+    "sku": "412547",
+    "upc": "610764863645",
+    "sku_line": "SKU:412547|UPC:610764863645",
+    "title_lines": [
+      "Bang Energy Blue Razz, 16 oz",
+      "cans, 12 loose"
+    ],
+    "raw_name": "Bang Energy Blue Razz, 16 oz cans, 12 loose",
+    "img_path": "drink_images/sku_412547.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211336_myCoke.jpg",
+    "sku": "412549",
+    "upc": "610764000323",
+    "sku_line": "SKU:412549|UPC:610764000323",
+    "title_lines": [
+      "Bang Energy Cotton Candy, 16",
+      "oz cans, 12 loose"
+    ],
+    "raw_name": "Bang Energy Cotton Candy, 16 oz cans, 12 loose",
+    "img_path": "drink_images/sku_412549.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211336_myCoke.jpg",
+    "sku": "413997",
+    "upc": "610764017949",
+    "sku_line": "SKU:413997\u4e28UPC:610764017949",
+    "title_lines": [
+      "Bang Energy Lime Pop Drop,",
+      "16 oz cans,12 Loose"
+    ],
+    "raw_name": "Bang Energy Lime Pop Drop, 16 oz cans,12 Loose",
+    "img_path": "drink_images/sku_413997.png",
+    "crop_h": 358,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "412556",
+    "upc": "610764863829",
+    "sku_line": "SKU: 412556|UPC:610764863829",
+    "title_lines": [
+      "Bang EnergyPeach Mango,16",
+      "ozcans,12loose"
+    ],
+    "raw_name": "Bang EnergyPeach Mango,16 ozcans,12loose",
+    "img_path": "drink_images/sku_412556.png",
+    "crop_h": 476,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "412550",
+    "upc": "610764000156",
+    "sku_line": "SKU: 412550| UPC: 610764000156",
+    "title_lines": [
+      "\u5341",
+      "Bang Energy Purple Haze,16",
+      "ozcans,12loose"
+    ],
+    "raw_name": "\u5341 Bang Energy Purple Haze,16 ozcans,12loose",
+    "img_path": "drink_images/sku_412550.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "412555",
+    "upc": "610764863669",
+    "sku_line": "SKU:412555|UPC:610764863669",
+    "title_lines": [
+      "BangEnergyStarBlast,16oz",
+      "cans,12loose"
+    ],
+    "raw_name": "BangEnergyStarBlast,16oz cans,12loose",
+    "img_path": "drink_images/sku_412555.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "410703",
+    "upc": "815154023412",
+    "sku_line": "SKU:410703|UPC:815154023412",
+    "title_lines": [
+      "Reign TotalBodyFuel Cherry",
+      "Limeade,16ozcans,12loose"
+    ],
+    "raw_name": "Reign TotalBodyFuel Cherry Limeade,16ozcans,12loose",
+    "img_path": "drink_images/sku_410703.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "157135",
+    "upc": "815154021913",
+    "sku_line": "SKU: 157135 |UPC:815154021913",
+    "title_lines": [
+      "\u4e2d",
+      "ReignTotalBodyFuelOrange",
+      "Dreamsicle,16ozcans,12lo.."
+    ],
+    "raw_name": "\u4e2d ReignTotalBodyFuelOrange Dreamsicle,16ozcans,12lo..",
+    "img_path": "drink_images/sku_157135.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "411461",
+    "upc": "815154021425",
+    "sku_line": "SKU: 411461|UPC: 815154021425",
+    "title_lines": [
+      "Reign TotalBodyFuel",
+      "ReignbowSherbet,16ozcan..."
+    ],
+    "raw_name": "Reign TotalBodyFuel ReignbowSherbet,16ozcan...",
+    "img_path": "drink_images/sku_411461.png",
+    "crop_h": 492,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "412591",
+    "upc": "815154025980",
+    "sku_line": "SKU:412591|UPC:815154025980",
+    "title_lines": [
+      "ReignTotalBodyFuelSour",
+      "GummyWorm\uff0c16ozcans,12"
+    ],
+    "raw_name": "ReignTotalBodyFuelSour GummyWorm\uff0c16ozcans,12",
+    "img_path": "drink_images/sku_412591.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "413998",
+    "upc": "815154027021",
+    "sku_line": "SKU:413998|UPC:815154027021",
+    "title_lines": [
+      "ReignTotal BodyFuel",
+      "WatermelonSourGummy,16..."
+    ],
+    "raw_name": "ReignTotal BodyFuel WatermelonSourGummy,16...",
+    "img_path": "drink_images/sku_413998.png",
+    "crop_h": 488,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "410704",
+    "upc": "815154023276",
+    "sku_line": "SKU: 410704|UPC:815154023276",
+    "title_lines": [
+      "\u5341",
+      "ReignTotalBodyFuelWhite",
+      "GummyBear,16ozcans,121."
+    ],
+    "raw_name": "\u5341 ReignTotalBodyFuelWhite GummyBear,16ozcans,121.",
+    "img_path": "drink_images/sku_410704.png",
+    "crop_h": 490,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "413225",
+    "upc": "815154026789",
+    "sku_line": "SKU:413225|UPC: 815154026789",
+    "title_lines": [
+      "ReignTotalBodyFuelWhite",
+      "Haze,16ozcans,12Loose"
+    ],
+    "raw_name": "ReignTotalBodyFuelWhite Haze,16ozcans,12Loose",
+    "img_path": "drink_images/sku_413225.png",
+    "crop_h": 489,
+    "crop_w": 335
+  },
+  {
+    "file": "Screenshot_20260913_211354_myCoke.jpg",
+    "sku": "414160",
+    "upc": "815154027151",
+    "sku_line": "SKU: 414160|UPC: 815154027151",
+    "title_lines": [
+      "\u5341",
+      "FullThrottleRedApple,16oz",
+      "cans,24Lo0se"
+    ],
+    "raw_name": "\u5341 FullThrottleRedApple,16oz cans,24Lo0se",
+    "img_path": "drink_images/sku_414160.png",
+    "crop_h": 394,
+    "crop_w": 335
+  }
+]
